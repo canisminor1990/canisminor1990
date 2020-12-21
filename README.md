@@ -1,6 +1,6 @@
 ![](https://github.com/canisminor1990/canisminor1990/blob/main/welcome.png?raw=true)
 
-### 👋 Hi there
+### 👋 Hi there, I'm [Canis Minor](https://github.com/canisminor1990)
 
 Hello, I'm Canis Minor, UX Designer & Front-end Developer based in Chengdu China.
 
