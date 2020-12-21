@@ -1,4 +1,4 @@
-### Hi there 🌱
+### 👋 Hi there
 
 Hello, I'm Canis Minor, UX Designer & Front-end Developer based in Chengdu China.
 
@@ -12,3 +12,7 @@ Hello, I'm Canis Minor, UX Designer & Front-end Developer based in Chengdu China
   <img width="16"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canisminor1990&layout=compact"/>
 </div>
+
+### 🌱 Find More
+
+<https://canisminor.cc>
