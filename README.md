@@ -1,4 +1,4 @@
-![](https://qn.canisminor.cc/2018-08-27-canisminor-l.png)
+![](https://github.com/canisminor1990/canisminor1990/blob/main/welcome.png?raw=true)
 
 ### 👋 Hi there
 
