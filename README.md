@@ -8,8 +8,9 @@ Hello, I'm Canis Minor, UX Designer & Front-end Developer based in Chengdu China
 
 
 ### 👀 GitHub Stats
-![CanisMinor's github stats](https://github-readme-stats.vercel.app/api?username=canisminor1990&show_icons=true)
 
-
-### 🤔 Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canisminor1990&layout=compact)
+<div>
+  <img height="160" style="margin-right:12px" src="https://github-readme-stats.vercel.app/api?username=canisminor1990&show_icons=true"/>
+  <img width="16"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canisminor1990&layout=compact"/>
+</div>
