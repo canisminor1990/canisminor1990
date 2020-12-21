@@ -17,4 +17,4 @@ Hello, I'm Canis Minor, UX Designer & Front-end Developer based in Chengdu China
 
 ### 🌱 Find More
 
-[![](https://img.shields.io/badge/canisminor.cc-online-brightgreen.svg)](https://canisminor.cc)
+[![](https://img.shields.io/badge/canisminor.cc-online-brightgreen.svg)](https://canisminor.cc) [![](https://img.shields.io/badge/-Chat-white?style=flat&logo=github&logoColor=black)](https://github.com/canisminor1990/canisminor1990/issues/1)
