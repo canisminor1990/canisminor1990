@@ -25,6 +25,7 @@ Hello, I'm Canis Minor, a `Design Engineer` based in Chengdu China.
 </div>
 
 <br/>
+<br/>
 
 ## 👀 GitHub Stats
 
@@ -35,6 +36,8 @@ Hello, I'm Canis Minor, a `Design Engineer` based in Chengdu China.
 </div>
 
 <br/>
+
+![][split]
 
 ## 🛠 Tech Stack and Tools
 
@@ -130,3 +133,5 @@ Hello, I'm Canis Minor, a `Design Engineer` based in Chengdu China.
 [ChatGPT]: https://img.shields.io/badge/-ChatGPT-151515?style=flat-square&logoColor=white&logo=openai
 [Stable Diffusion]: https://img.shields.io/badge/-🤗_Stable_Diffusion-151515?style=flat-square&logoColor=white
 [Notion]: https://img.shields.io/badge/-Notion-151515?style=flat-square&logoColor=white&logo=notion
+
+[split]: https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png
