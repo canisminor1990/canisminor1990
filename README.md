@@ -109,7 +109,7 @@ Hello, I'm Canis Minor, a `Design Engineer` based in Chengdu China.
 [VS Code]: https://img.shields.io/badge/-VS_Code-151515?style=flat-square&logoColor=white&logo=visualstudiocode
 [Sublime]: https://img.shields.io/badge/-Sublime-151515?style=flat-square&logoColor=white&logo=sublimetext
 [Gitpod]: https://img.shields.io/badge/-Gitpod-151515?style=flat-square&logoColor=white&logo=gitpod
-[CodeSandbBox]: https://img.shields.io/badge/-Code_Sandb_Box-151515?style=flat-square&logoColor=white&logo=codesandbox
+[CodeSandbBox]: https://img.shields.io/badge/-Code_Sand_Box-151515?style=flat-square&logoColor=white&logo=codesandbox
 
 <!-- OS -->
 
