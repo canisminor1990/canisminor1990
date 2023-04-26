@@ -27,7 +27,7 @@ Hello, I'm Canis Minor, a `Design Engineer` based in Chengdu China.
 <br/>
 <br/>
 
-## 👀 GitHub Stats
+### 👀 GitHub Stats
 
 <div>
   <img height="160" style="margin-right:12px" src="https://github-readme-stats.vercel.app/api?username=canisminor1990&show_icons=true&theme=radical&title_color=fff&text_color=fff&icon_color=90774f&bg_color=151515"/>
@@ -39,7 +39,7 @@ Hello, I'm Canis Minor, a `Design Engineer` based in Chengdu China.
 
 ![][split]
 
-## 🛠 Tech Stack and Tools
+### 💫 Tech Stack and Tools
 
 | End | Stack |
 | --- | --- |
@@ -86,9 +86,9 @@ Hello, I'm Canis Minor, a `Design Engineer` based in Chengdu China.
 <!-- Backend -->
 
 [Node]: https://img.shields.io/badge/-Node.js-151515?style=flat-square&logoColor=white&logo=node.js
-[Egg]: https://img.shields.io/badge/-Egg-151515?style=style=flat-square&logoColor=white&logo
+[Egg]: https://img.shields.io/badge/-Egg-151515?style=flat-square&logoColor=white&logo
 [SQLite]: https://img.shields.io/badge/-SQLite-151515?style=flat-square&logoColor=white&logo=sqlite
-[PostgreSQL]: https://img.shields.io/badge/-PostgreSQL-151515?style=style=flat-square&logoColor=white&logo=postgresql
+[PostgreSQL]: https://img.shields.io/badge/-PostgreSQL-151515?style=flat-square&logoColor=white&logo=postgresql
 [MongoDB]: https://img.shields.io/badge/-MongoDB-151515?style=flat-square&logoColor=white&logo=mongodb
 [Nginx]: https://img.shields.io/badge/-Nginx-151515?tyle=flat-square&logoColor=white&logo=nginx
 [GraphQL]: https://img.shields.io/badge/-GraphQL-151515?style=flat-square&logoColor=white&logo=graphql
@@ -133,5 +133,20 @@ Hello, I'm Canis Minor, a `Design Engineer` based in Chengdu China.
 [ChatGPT]: https://img.shields.io/badge/-ChatGPT-151515?style=flat-square&logoColor=white&logo=openai
 [Stable Diffusion]: https://img.shields.io/badge/-🤗_Stable_Diffusion-151515?style=flat-square&logoColor=white
 [Notion]: https://img.shields.io/badge/-Notion-151515?style=flat-square&logoColor=white&logo=notion
+
+<br/>
+
+![][split]
+
+## 🛠 Github Info
+
+<!--START_SECTION_LINES_OF_CODE:readme-info-->
+<!--END_SECTION_LINES_OF_CODE:readme-info-->
+
+<!--START_SECTION_DAILY_COMMIT:readme-info-->
+<!--END_SECTION_DAILY_COMMIT:readme-info-->
+
+<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
+<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
 
 [split]: https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png
