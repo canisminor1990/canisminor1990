@@ -138,7 +138,7 @@ Hello, I'm Canis Minor, a `Design Engineer` based in Chengdu China.
 
 ![][split]
 
-## 🛠 Github Info
+### 🛠 Github Info
 
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
