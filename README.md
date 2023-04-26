@@ -87,11 +87,11 @@ Hello, I'm Canis Minor, a `Design Engineer` based in Chengdu China.
 
 [Node]: https://img.shields.io/badge/-Node.js-151515?style=flat-square&logoColor=white&logo=node.js
 [Egg]: https://img.shields.io/badge/-Egg-151515?style=style=flat-square&logoColor=white&logo
-[SQLite]: https://img.shields.io/badge/-SQLite-151515?style=style=flat-square&logoColor=white&logo=sqlite
+[SQLite]: https://img.shields.io/badge/-SQLite-151515?style=flat-square&logoColor=white&logo=sqlite
 [PostgreSQL]: https://img.shields.io/badge/-PostgreSQL-151515?style=style=flat-square&logoColor=white&logo=postgresql
-[MongoDB]: https://img.shields.io/badge/-MongoDB-151515?style=style=flat-square&logoColor=white&logo=mongodb
-[Nginx]: https://img.shields.io/badge/-Nginx-151515?style=style=flat-square&logoColor=white&logo=nginx
-[GraphQL]: https://img.shields.io/badge/-GraphQL-151515?style=style=flat-square&logoColor=white&logo=graphql
+[MongoDB]: https://img.shields.io/badge/-MongoDB-151515?style=flat-square&logoColor=white&logo=mongodb
+[Nginx]: https://img.shields.io/badge/-Nginx-151515?tyle=flat-square&logoColor=white&logo=nginx
+[GraphQL]: https://img.shields.io/badge/-GraphQL-151515?style=flat-square&logoColor=white&logo=graphql
 
 <!-- Devops -->
 
