@@ -30,9 +30,9 @@ Hello, I'm Canis Minor, a `Design Engineer` based in Chengdu China.
 ### 👀 GitHub Stats
 
 <div align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=canisminor1990&show_icons=true&theme=radical&title_color=fff&text_color=fff&icon_color=90774f&bg_color=151515"/>
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=canisminor1990&show_icons=true&theme=radical&title_color=fff&text_color=fff&icon_color=90774f&bg_color=151515"/>
 <img width="16"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canisminor1990&layout=compact&title_color=fff&text_color=fff&icon_color=90774f&bg_color=151515"/>
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canisminor1990&layout=compact&title_color=fff&text_color=fff&icon_color=90774f&bg_color=151515"/>
 </div>
 
 <br/>
@@ -145,9 +145,9 @@ Hello, I'm Canis Minor, a `Design Engineer` based in Chengdu China.
 <br>
 <div align="center">
   
-<img width="400" alt="Left" src="https://raw.githubusercontent.com/canisminor1990/canisminor1990/main/assets/left.svg">
+<img width="390" alt="Left" src="https://raw.githubusercontent.com/canisminor1990/canisminor1990/main/assets/left.svg">
 <img width="16"/>
-[<img width="400" alt="Right" src="https://raw.githubusercontent.com/canisminor1990/canisminor1990/main/assets/right.svg">](https://steamcommunity.com/id/canisminor/)
+<img width="390" alt="Right" src="https://raw.githubusercontent.com/canisminor1990/canisminor1990/main/assets/right.svg">
   
 </div>
 </details>
