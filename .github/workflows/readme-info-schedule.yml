@@ -26,7 +26,7 @@ jobs:
           plugin_topics_mode: icons
           plugin_stars: yes
           plugin_stars_limit: 3
-          token:  ${{ secrets.GH_TOEKN }}
+          token:  ${{ secrets.GH_TOKEN }}
 
           
      -  name: 🦑 Rihgt
@@ -45,4 +45,4 @@ jobs:
           plugin_steam: yes
           plugin_steam_user: "076561198054835207"
           plugin_steam_achievements_limit: 0
-          token:  ${{ secrets.GH_TOEKN }}
+          token:  ${{ secrets.GH_TOKEN }}
