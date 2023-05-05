@@ -90,7 +90,7 @@ Hello, I'm Canis Minor, a `Design Engineer` based in Chengdu China.
 [SQLite]: https://img.shields.io/badge/-SQLite-151515?style=flat-square&logoColor=white&logo=sqlite
 [PostgreSQL]: https://img.shields.io/badge/-PostgreSQL-151515?style=flat-square&logoColor=white&logo=postgresql
 [MongoDB]: https://img.shields.io/badge/-MongoDB-151515?style=flat-square&logoColor=white&logo=mongodb
-[Nginx]: https://img.shields.io/badge/-Nginx-151515?tyle=flat-square&logoColor=white&logo=nginx
+[Nginx]: https://img.shields.io/badge/-Nginx-151515?style=flat-square&logoColor=white&logo=nginx
 [GraphQL]: https://img.shields.io/badge/-GraphQL-151515?style=flat-square&logoColor=white&logo=graphql
 
 <!-- Devops -->
@@ -138,15 +138,17 @@ Hello, I'm Canis Minor, a `Design Engineer` based in Chengdu China.
 
 ![][split]
 
-### 🛠 Github Info
+### 😚 Stats Info
 
-<!--START_SECTION_LINES_OF_CODE:readme-info-->
-<!--END_SECTION_LINES_OF_CODE:readme-info-->
+<details>
+<summary>Click here to expand ↩️</summary>
+<br>
+  
 
-<!--START_SECTION_DAILY_COMMIT:readme-info-->
-<!--END_SECTION_DAILY_COMMIT:readme-info-->
+[<img align="left" width="390" alt="Steam" src="https://raw.githubusercontent.com/canisminor1990/canisminor1990/main/assets/steam.svg">](https://steamcommunity.com/id/canisminor/)
+[<img align="right" width="390" alt="Anlist" src="https://raw.githubusercontent.com/canisminor1990/canisminor1990/main/assets/anilist.svg">](#)
+  
+</details>
 
-<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
-<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
 
 [split]: https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png
