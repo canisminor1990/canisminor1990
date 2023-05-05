@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     
-     -  name: 🦑 Left
+     -  name: 🐈‍⬛ Left
         uses: lowlighter/metrics@latest
         with:
           filename: assets/left.svg
@@ -29,7 +29,7 @@ jobs:
           token:  ${{ secrets.GH_TOKEN }}
 
           
-     -  name: 🦑 Rihgt
+     -  name: 🐈‍⬛ Rihgt
         uses: lowlighter/metrics@latest
         with:
           config_order: anilist, steam
@@ -39,10 +39,10 @@ jobs:
           plugin_anilist: yes
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, characters
-          plugin_anilist_limit: 2
+          plugin_anilist_limit: 3
           plugin_anilist_limit_characters: 22
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam: yes
           plugin_steam_user: "076561198054835207"
-          plugin_steam_achievements_limit: 0
+          plugin_steam_achievements_limit: 1
           token:  ${{ secrets.GH_TOKEN }}
