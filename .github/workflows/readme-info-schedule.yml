@@ -16,7 +16,7 @@ jobs:
      -  name: 🦑 Left
         uses: lowlighter/metrics@latest
         with:
-          filename: left.svg
+          filename: assets/left.svg
           base: header
           base_indepth: yes
           config_order: base.header, isocalendar, starts, achievements
