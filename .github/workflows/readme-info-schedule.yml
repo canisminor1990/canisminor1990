@@ -2,21 +2,17 @@ name: README Info Update
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: '0 0 * * *'
 
 jobs:
   update-readme:
-    name: GitHub README Generator
-    runs-on: ubuntu-latest
-    steps:
-      - uses: th3c0d3br34ker/github-readme-info@master
-        with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          TIMEZONE: "Asia/Shanghai"
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_PROFILE_VIEWS: "False"
-          SHOW_DAILY_COMMIT: "True"
-          SHOW_WEEKLY_COMMIT: "True"
-          SHOW_LANGUAGE: "False"
-          SHOW_TOTAL_CONTRIBUTIONS: "False"
+    name: Profile and detailed game history
+    uses: lowlighter/metrics@latest
+    with:
+      filename: assets/steam.svg
+      token: NOT_NEEDED
+      base: ""
+      plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+      plugin_steam: yes
+      plugin_steam_user: "076561198054835207"
+      plugin_steam_achievements_limit: 0
