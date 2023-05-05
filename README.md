@@ -25,14 +25,13 @@ Hello, I'm Canis Minor, a `Design Engineer` based in Chengdu China.
 </div>
 
 <br/>
-<br/>
-
-### 👀 GitHub Stats
 
 <div align="center">
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=canisminor1990&show_icons=true&theme=radical&title_color=fff&text_color=fff&icon_color=90774f&bg_color=151515"/>
-<img width="16"/>
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canisminor1990&layout=compact&title_color=fff&text_color=fff&icon_color=90774f&bg_color=151515"/>
+<img height="148" src="https://github-readme-stats.vercel.app/api?username=canisminor1990&show_icons=true&theme=radical&title_color=fff&text_color=fff&icon_color=90774f&bg_color=151515"/>
+
+<img height="148" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canisminor1990&layout=compact&title_color=fff&text_color=fff&icon_color=90774f&bg_color=151515"/>
+
+<img height="148" src="https://steam-stat.vercel.app/api?profileName=CanisMinor"/>
 </div>
 
 <br/>
@@ -44,7 +43,7 @@ Hello, I'm Canis Minor, a `Design Engineer` based in Chengdu China.
 | End | Stack |
 | --- | --- |
 | ![][Design] | ![][Adobe] ![][Sketch] ![][Figma] ![][Blender] ![][Cinema4D] ![][Stable Diffusion] ![][SAI] ![][Live2D] |
-| ![][Frontend] | ![][React] ![][Antd] ![][Styled] ![][Umi] ![][DUMI] ![][Electron] ![][Three] |
+| ![][Frontend] | ![][React] ![][Zustand] ![][ReactSpring] ![][Antd] ![][Styled] ![][Umi] ![][DUMI] ![][Electron] ![][Three] ![][ReactThree] |
 | ![][Backend] | ![][Node] ![GraphQL] ![][SQLite] ![][MongoDB] ![][PostgreSQL] ![][Nginx] ![][Egg] |
 | ![][Devops] | ![][Docker] ![][GitHub Action] ![][Semantic] ![][Gitmoji] ![][Vercel] ![][Prettier] |
 | ![][IDE] | ![][Webstorm] ![][DataGrap] ![][VS Code] ![][Sublime] ![][Gitpod] ![][CodeSandbBox] |
@@ -82,6 +81,10 @@ Hello, I'm Canis Minor, a `Design Engineer` based in Chengdu China.
 [Styled]: https://img.shields.io/badge/-Styled_Components-151515?style=flat-square&logo=styled-components&logoColor=white
 [Three]: https://img.shields.io/badge/-Three.js-151515?style=flat-square&logoColor=white&logo=threedotjs
 [Electron]: https://img.shields.io/badge/-Electron-151515?style=flat-square&logoColor=white&logo=electron
+[Zustand]: https://img.shields.io/badge/-🐻_Zustand-151515?style=flat-square
+[ReactSpring]: https://img.shields.io/badge/-✌️_React_Spring-151515?style=flat-square
+[ReactThree]: https://img.shields.io/badge/-🇨🇭_React_Three-151515?style=flat-square
+
 
 <!-- Backend -->
 
@@ -97,7 +100,7 @@ Hello, I'm Canis Minor, a `Design Engineer` based in Chengdu China.
 
 [Docker]: https://img.shields.io/badge/-Docker-151515?style=flat-square&logoColor=white&logo=docker
 [GitHub Action]: https://img.shields.io/badge/-GitHub_Actions-151515?style=flat-square&logoColor=white&logo=github
-[Gitmoji]: https://img.shields.io/badge/-😉_Gitmoji-151515?style=flat-square
+[Gitmoji]: https://img.shields.io/badge/-😉_Gitmoji_Workflow-151515?style=flat-square
 [Semantic]: https://img.shields.io/badge/-Semantic-151515?style=flat-square&logoColor=white&logo=semanticrelease
 [Vercel]: https://img.shields.io/badge/-Vercel-151515?style=flat-square&logoColor=white&logo=vercel
 [Prettier]: https://img.shields.io/badge/-Prettier-151515?style=flat-square&logoColor=white&logo=prettier
@@ -138,7 +141,7 @@ Hello, I'm Canis Minor, a `Design Engineer` based in Chengdu China.
 
 ![][split]
 
-### 😚 Media Info
+### 👀 Media Info
 
 <details>
 <summary>Click here to expand ↩️</summary>
