@@ -13,22 +13,26 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     
-     -  name: 🦑 Steam
+     -  name: 🦑 Left
         uses: lowlighter/metrics@latest
         with:
-          filename: assets/steam.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
-          plugin_steam: yes
-          plugin_steam_user: "076561198054835207"
-          plugin_steam_achievements_limit: 0
+          filename: right.svg
+          base: header
+          base_indepth: yes
+          config_order: base.header, isocalendar, starts, topics
+          plugin_isocalendar: yes
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
+          plugin_stars: yes
+          plugin_stars_limit: 3
+
           
-     -  name: 🦑 Anilist
+     -  name: 🦑 Rihgt
         uses: lowlighter/metrics@latest
         with:
-          filename: assets/anilist.svg
-          token: NOT_NEEDED
+          config_order: anilist, steam
+          filename: assets/right.svg
           base: ""
           plugin_anilist_user: "canisminor1990"
           plugin_anilist: yes
@@ -36,3 +40,7 @@ jobs:
           plugin_anilist_sections: favorites, characters
           plugin_anilist_limit: 2
           plugin_anilist_limit_characters: 22
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam: yes
+          plugin_steam_user: "076561198054835207"
+          plugin_steam_achievements_limit: 0
