@@ -100,7 +100,7 @@ Hello, I'm Canis Minor, a `Design Engineer` based in Chengdu China.
 
 [Docker]: https://img.shields.io/badge/-Docker-151515?style=flat-square&logoColor=white&logo=docker
 [GitHub Action]: https://img.shields.io/badge/-GitHub_Actions-151515?style=flat-square&logoColor=white&logo=github
-[Gitmoji]: https://img.shields.io/badge/-😉_Gitmoji_Workflow-151515?style=flat-square
+[Gitmoji]: https://img.shields.io/badge/-😉_Gitmoji_Commit_Workflow-151515?style=flat-square
 [Semantic]: https://img.shields.io/badge/-Semantic-151515?style=flat-square&logoColor=white&logo=semanticrelease
 [Vercel]: https://img.shields.io/badge/-Vercel-151515?style=flat-square&logoColor=white&logo=vercel
 [Prettier]: https://img.shields.io/badge/-Prettier-151515?style=flat-square&logoColor=white&logo=prettier
