@@ -6,17 +6,24 @@
 
 Hello, I'm Canis Minor, a `Design Engineer` based in Chengdu China.
 
-![][HTML] ![][JavaScript] ![][TypeScript] ![][CSS] ![][Sh] <br /> [![][website-shield]][website-url] [![][chat-shield]][chat-url] [![][follow-shield]][follow-url]
+![][HTML] ![][JavaScript] ![][TypeScript] ![][CSS] ![][Sh] <br /> [![][website-shield]][website-url] [![][qq-shield]][qq-url] [![][wechat-shield]][wechat-url] [![][follow-shield]][follow-url]
 
-<!-- SHIELD LINK GROUP -->
+<!-- Lang -->
 
 [HTML]: https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white
 [JavaScript]: https://img.shields.io/badge/-JavaScript-C69D00?style=flat&logoColor=white&logo=javascript
 [TypeScript]: https://img.shields.io/badge/-TypeScript-2f74c0?style=flat&logoColor=white&logo=typescript
 [CSS]: https://img.shields.io/badge/-CSS-254bdd?style=flat&logoColor=white&logo=css3
 [Sh]: https://img.shields.io/badge/-Shell-444?style=flat&logoColor=white&logo=powershell
+
+<!-- Social -->
+  
 [website-shield]: https://img.shields.io/website?down_message=offline&label=canisminor.cc&up_message=online&url=https%3A%2F%2Fcanisminor.cc
 [website-url]: https://canisminor.cc
+[qq-shield]: https://img.shields.io/badge/-40073838-white?style=social&logoColor=black&logo=tencentqq
+[qq-url]: http://wpa.qq.com/msgrd?v=3&uin=40073838&site=qq&menu=yes
+[wechat-shield]: https://img.shields.io/badge/-canisminor-white?style=social&logoColor=black&logo=wechat
+[wechat-url]: https://canisminor.cc/img/qrcode.png
 [chat-shield]: https://img.shields.io/badge/-Chat-white?style=social&logo=github&logoColor=black
 [chat-url]: https://github.com/canisminor1990/canisminor1990/issues/1
 [follow-shield]: https://img.shields.io/github/followers/canisminor1990?label=Follow&style=social
