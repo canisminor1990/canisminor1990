@@ -144,6 +144,9 @@ Hello, I'm Canis Minor, a `Design Engineer` based in Chengdu China.
 [Stable Diffusion]: https://img.shields.io/badge/-🤗_Stable_Diffusion-151515?style=flat-square&logoColor=white
 [Notion]: https://img.shields.io/badge/-Notion-151515?style=flat-square&logoColor=white&logo=notion
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <br/>
 
 ![][split]
@@ -160,7 +163,9 @@ Hello, I'm Canis Minor, a `Design Engineer` based in Chengdu China.
 <img width="390" alt="Right" src="https://raw.githubusercontent.com/canisminor1990/canisminor1990/main/assets/right.svg">
   
 </div>
+  
 </details>
+
 
 
 [split]: https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png
