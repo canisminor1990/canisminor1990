@@ -144,36 +144,6 @@ Hello, I'm Canis Minor, a `Design Engineer` based in Chengdu China.
 [Stable Diffusion]: https://img.shields.io/badge/-🤗_Stable_Diffusion-151515?style=flat-square&logoColor=white
 [Notion]: https://img.shields.io/badge/-Notion-151515?style=flat-square&logoColor=white&logo=notion
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-37%20hrs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2366 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
-🌆 Daytime                4988 commits        █████████░░░░░░░░░░░░░░░░   37.17 % 
-🌃 Evening                4842 commits        █████████░░░░░░░░░░░░░░░░   36.09 % 
-🌙 Night                  1222 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   1764 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Tuesday                  2021 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
-Wednesday                2884 commits        █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
-Thursday                 1738 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Friday                   1470 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-Saturday                 1803 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-Sunday                   1738 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-```
-
-
-
- Last Updated on 18/05/2023 14:56:42 UTC
-<!--END_SECTION:waka-->
-
 <br/>
 
 ![][split]
@@ -193,6 +163,17 @@ Sunday                   1738 commits        ███░░░░░░░░�
   
 </details>
 
+<!--START_SECTION:waka-->
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2366 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+🌆 Daytime                4988 commits        █████████░░░░░░░░░░░░░░░░   37.17 % 
+🌃 Evening                4842 commits        █████████░░░░░░░░░░░░░░░░   36.09 % 
+🌙 Night                  1222 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+```
+ Last Updated on 18/05/2023 14:56:42 UTC
+<!--END_SECTION:waka-->
 
 [split]: https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png
