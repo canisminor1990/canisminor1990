@@ -151,7 +151,7 @@ Hello, I'm Canis Minor, a `Design Engineer` based in Chengdu China.
 ### 👀 Media Info
 
 <details>
-<summary>Click here to expand ↩️</summary>
+  <summary><kbd>Click here to expand</kbd> ↩️</summary>
 <br>
 <div align="center">
   
