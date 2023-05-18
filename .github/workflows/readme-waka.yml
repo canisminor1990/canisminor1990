@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   # 🌏 Think about the planet! No need to update stats too frequently
-  schedule: [{cron: "0 16 * * *"}]
+  schedule: [{cron: "0 18 * * *"}]
   # 💡 The following line lets you run workflow manually from the action tab!
   workflow_dispatch:
 jobs:
@@ -24,4 +24,5 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_PROFILE_VIEWS: "False"
-          SHOW_DAYS_OF_WEEK: "False" 
+          SHOW_DAYS_OF_WEEK: "False"
+          SYMBOL_VERSION: 3
