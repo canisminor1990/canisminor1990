@@ -1,0 +1,43 @@
+{
+  "name": "canisminor",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "https://github.com/canisminor1990",
+  "bugs": {
+    "url": "https://github.com/canisminor1990/issues/new"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/canisminor1990/canisminor1990.git"
+  },
+  "author": "canisminor1990 <i@canisminor.cc>",
+  "scripts": {
+    "lint": "remark . -f -q",
+    "prepare": "husky install",
+    "prettier": "prettier -c --write \"**/**\"",
+    "test": "npm run lint"
+  },
+  "lint-staged": {
+    "*.md": [
+      "remark -f -q",
+      "prettier --write --no-error-on-unmatched-pattern"
+    ],
+    "*.json": [
+      "prettier --write --no-error-on-unmatched-pattern"
+    ]
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^17",
+    "commitlint": "^17",
+    "commitlint-config-gitmoji": "^2",
+    "husky": "^8",
+    "lint-staged": "^13",
+    "prettier": "^2",
+    "prettier-plugin-packagejson": "^2",
+    "remark": "^14",
+    "remark-cli": "^11",
+    "remark-lint": "^9",
+    "remark-lint-list-item-indent": "^3",
+    "remark-preset-lint-recommended": "^6"
+  }
+}
