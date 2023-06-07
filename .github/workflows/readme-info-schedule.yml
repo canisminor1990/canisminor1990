@@ -5,15 +5,14 @@
 name: Metrics
 on:
   # 🌏 Think about the planet! No need to update stats too frequently
-  schedule: [{cron: "0 16 * * *"}]
+  schedule: [{ cron: '0 16 * * *' }]
   # 💡 The following line lets you run workflow manually from the action tab!
   workflow_dispatch:
 jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-    
-     -  name: 🐈‍⬛ Left
+      - name: 🐈‍⬛ Left
         uses: lowlighter/metrics@latest
         with:
           filename: assets/left.svg
@@ -26,16 +25,15 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_fortune: yes
-          token:  ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
 
-          
-     -  name: 🐈‍⬛ Rihgt
+      - name: 🐈‍⬛ Rihgt
         uses: lowlighter/metrics@latest
         with:
           config_order: anilist, steam
           filename: assets/right.svg
-          base: ""
-          plugin_anilist_user: "canisminor1990"
+          base: ''
+          plugin_anilist_user: 'canisminor1990'
           plugin_anilist: yes
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, characters
@@ -43,6 +41,6 @@ jobs:
           plugin_anilist_limit_characters: 22
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam: yes
-          plugin_steam_user: "076561198054835207"
+          plugin_steam_user: '076561198054835207'
           plugin_steam_achievements_limit: 1
-          token:  ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
