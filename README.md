@@ -26,16 +26,16 @@ Hello, I'm Canis Minor, a `Design Engineer` based in Chengdu China.
 
 ### 💫 Tech Stack and Tools
 
-| End                  | Stack                                                                                                                                                                              |
-| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![][header-design]   | ![][adobe] ![][sketch] ![][figma] ![][blender] ![][cinema4d] ![][stable-diffusion] ![][sai] ![][live2d]                                                                            |
-| ![][header-frontend] | ![][react] ![][zustand] ![][react-spring] ![][antd] ![][styled] ![][Umi] ![][dumi] ![][electron] ![][three] ![][react-three]                                                       |
-| ![][header-backend]  | ![][node] ![][graphql] ![][sqlite] ![][mongodb] ![][postgresql] ![][nginx] ![][egg] ![][keystone] ![][prisma]                                                                      |
-| ![][header-devops]   | ![][docker] ![][github-action] ![][semantic-release] ![][gitmoji] ![][lobe-commit] ![][vercel] ![][prettier] ![][eslint] ![][stylelint] ![][commitlint] ![][changelog] ![][remark] |
-| ![][header-ide]      | ![][webstorm] ![][datagrap] ![][vscode] ![][sublime] ![][gitpod] ![][sandbox]                                                                                                      |
-| ![][header-os]       | ![][mac] ![][win] ![][ubuntu] ![][centos] ![][debian] ![][openwrt]                                                                                                                 |
-| ![][header-shell]    | ![][iterm] ![][terminal] ![][fish] ![][oh-my-posh]                                                                                                                                 |
-| ![][header-other]    | ![][sketch-plugin] ![][chatgpt] ![][notion]                                                                                                                                        |
+| End                  | Stack                                                                                                                                                                                    |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![][header-design]   | ![][adobe] ![][sketch] ![][figma] ![][blender] ![][cinema4d] ![][stable-diffusion] ![][sai] ![][live2d]                                                                                  |
+| ![][header-frontend] | ![][react] ![][zustand] ![][react-spring] ![][antd] ![][styled] ![][Umi] ![][dumi] ![][electron] ![][three] ![][react-three]                                                             |
+| ![][header-backend]  | ![][node] ![][graphql] ![][sqlite] ![][mongodb] ![][postgresql] ![][nginx] ![][egg] ![][keystone] ![][prisma]                                                                            |
+| ![][header-devops]   | ![][docker] ![][github-action] ![][semantic-release] ![][gitmoji] ![][lobe-commit] ![][vercel] ![][prettier] <br/> ![][eslint] ![][stylelint] ![][commitlint] ![][changelog] ![][remark] |
+| ![][header-ide]      | ![][webstorm] ![][datagrap] ![][vscode] ![][sublime] ![][gitpod] ![][sandbox]                                                                                                            |
+| ![][header-os]       | ![][mac] ![][win] ![][ubuntu] ![][centos] ![][debian] ![][openwrt]                                                                                                                       |
+| ![][header-shell]    | ![][iterm] ![][terminal] ![][fish] ![][oh-my-posh]                                                                                                                                       |
+| ![][header-other]    | ![][sketch-plugin] ![][chatgpt] ![][notion]                                                                                                                                              |
 
 <br/>
 
