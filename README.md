@@ -6,7 +6,16 @@
 
 Hello, I'm Canis Minor, a `Design Engineer` based in Chengdu China.
 
-![][lang-html] ![][lang-javascript] ![][lang-typescript] ![][lang-css] ![][lang-shell] <br /> [![][website-shield]][website-url] [![][qq-shield]][qq-url] [![][wechat-shield]][wechat-url] [![][follow-shield]][follow-url]
+![][lang-html]
+![][lang-javascript]
+![][lang-typescript]
+![][lang-css]
+![][lang-shell] <br /> 
+[![][website-shield]][website-url]
+![][discord-shield]
+[![][qq-shield]][qq-url]
+[![][wechat-shield]][wechat-url]
+[![][follow-shield]][follow-url]
 
 </div>
 
@@ -77,22 +86,23 @@ Hello, I'm Canis Minor, a `Design Engineer` based in Chengdu China.
 
 <!-- LANG -->
 
-[lang-html]: https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white
-[lang-javascript]: https://img.shields.io/badge/-JavaScript-C69D00?style=flat&logoColor=white&logo=javascript
-[lang-typescript]: https://img.shields.io/badge/-TypeScript-2f74c0?style=flat&logoColor=white&logo=typescript
-[lang-css]: https://img.shields.io/badge/-CSS-254bdd?style=flat&logoColor=white&logo=css3
-[lang-shell]: https://img.shields.io/badge/-Shell-444?style=flat&logoColor=white&logo=powershell
+[lang-html]: https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white
+[lang-javascript]: https://img.shields.io/badge/-JavaScript-C69D00?style=flat-square&logoColor=white&logo=javascript
+[lang-typescript]: https://img.shields.io/badge/-TypeScript-2f74c0?style=flat-square&logoColor=white&logo=typescript
+[lang-css]: https://img.shields.io/badge/-CSS-254bdd?style=flat-square&logoColor=white&logo=css3
+[lang-shell]: https://img.shields.io/badge/-Shell-444?style=flat-square&logoColor=white&logo=powershell
 
 <!-- SOCIAL -->
 
-[website-shield]: https://img.shields.io/website?down_message=offline&label=canisminor.cc&up_message=online&url=https%3A%2F%2Fcanisminor.cc
+[website-shield]: https://img.shields.io/website?down_message=offline&label=canisminor.cc&up_message=online&url=https%3A%2F%2Fcanisminor.cc&style=flat-square
 [website-url]: https://canisminor.cc
-[qq-shield]: https://img.shields.io/badge/-40073838-white?style=social&logoColor=black&logo=tencentqq
+[qq-shield]: https://img.shields.io/badge/-@40073838-007AFF?style=flat-square&logoColor=white&logo=tencentqq
 [qq-url]: http://wpa.qq.com/msgrd?v=3&uin=40073838&site=qq&menu=yes
-[wechat-shield]: https://img.shields.io/badge/-canisminor-white?style=social&logoColor=black&logo=wechat
+[wechat-shield]: https://img.shields.io/badge/-@canisminor-00C25F?style=flat-square&logoColor=white&logo=wechat
 [wechat-url]: https://canisminor.cc/img/qrcode.png
 [follow-shield]: https://img.shields.io/github/followers/canisminor1990?label=Follow&style=social
 [follow-url]: https://github.com/canisminor1990
+[discord-shield]: https://dcbadge.vercel.app/api/shield/447640465051746304?style=flat-square
 
 <!-- STACK_HEADER -->
 
