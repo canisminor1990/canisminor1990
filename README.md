@@ -17,16 +17,10 @@ Hello, I'm Canis Minor, a `Design Engineer` based in Chengdu China.
 [![][wechat-shield]][wechat-url]
 [![][follow-shield]][follow-url]
 
-</div>
-
 <br/>
 
-<div align="center">
 <img height="148" src="https://github-readme-stats.vercel.app/api?username=canisminor1990&show_icons=true&theme=radical&title_color=fff&text_color=fff&icon_color=90774f&bg_color=151515"/>
-
 <img height="148" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canisminor1990&layout=compact&title_color=fff&text_color=fff&icon_color=90774f&bg_color=151515"/>
-
-<img height="148" src="https://steam-stat.vercel.app/api?profileName=CanisMinor"/>
 </div>
 
 <br/>
