@@ -2,7 +2,7 @@
 
 ![](https://github.com/canisminor1990/canisminor1990/blob/main/assets/banner.webp?raw=true)
 
-<h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50px" style="max-width: 100%;"> Hi there, I'm <a href="https://github.com/canisminor1990">Canis Minor</a></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50px" style="max-width: 100%;"> Hi there, I'm <a href="https://github.com/canisminor1990">𝓒𝓪𝓷𝓲𝓼𝓜𝓲𝓷𝓸𝓻</a></h1>
 
 Hello, I'm Canis Minor, a `Design Engineer` based in Chengdu China.
 
