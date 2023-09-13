@@ -7,10 +7,9 @@
 Hello, I'm Canis Minor, a `Design Engineer` based in Chengdu China.
 
 ![][lang-html]
-![][lang-javascript]
-![][lang-typescript]
 ![][lang-css]
-![][lang-shell] <br /> 
+![][lang-typescript]
+![][lang-bun] <br /> 
 [![][website-shield]][website-url]
 ![][discord-shield]
 [![][qq-shield]][qq-url]
@@ -81,10 +80,9 @@ Hello, I'm Canis Minor, a `Design Engineer` based in Chengdu China.
 <!-- LANG -->
 
 [lang-html]: https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white
-[lang-javascript]: https://img.shields.io/badge/-JavaScript-C69D00?style=flat-square&logoColor=white&logo=javascript
+[lang-css]: https://img.shields.io/badge/-CSS_in_JS-C69D00?style=flat-square&logoColor=white&logo=css3
 [lang-typescript]: https://img.shields.io/badge/-TypeScript-2f74c0?style=flat-square&logoColor=white&logo=typescript
-[lang-css]: https://img.shields.io/badge/-CSS-254bdd?style=flat-square&logoColor=white&logo=css3
-[lang-shell]: https://img.shields.io/badge/-Shell-444?style=flat-square&logoColor=white&logo=powershell
+[lang-bun]: https://img.shields.io/badge/-Bun-444?style=flat-square&logoColor=white&logo=bun
 
 <!-- SOCIAL -->
 
