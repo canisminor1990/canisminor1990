@@ -4,22 +4,17 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50px" style="max-width: 100%;"> Hi there, I'm <a href="https://github.com/canisminor1990">𝓒𝓪𝓷𝓲𝓼𝓜𝓲𝓷𝓸𝓻</a></h1>
 
-Hello, I'm Canis Minor, a `Design Engineer` based in Chengdu China.
+A `Design Engineer` based in Chengdu China<br/>Passionate about open source projects & Committed to being a craftsman who creates beauty
 
-![][lang-html]
-![][lang-css]
-![][lang-typescript]
-![][lang-bun] <br /> 
-[![][website-shield]][website-url]
+![][design-engineer-shield]
+![][follow-shield]
+![][qq-shield]
+![][wechat-shield]
 ![][discord-shield]
-[![][qq-shield]][qq-url]
-[![][wechat-shield]][wechat-url]
-[![][follow-shield]][follow-url]
 
-<br/>
 
-<img height="148" src="https://github-readme-stats-lobehub-bot.vercel.app/api?username=canisminor1990&show_icons=true&theme=radical&title_color=fff&text_color=fff&icon_color=90774f&bg_color=151515"/>
-<img height="148" src="https://github-readme-stats-lobehub-bot.vercel.app/api/top-langs/?username=canisminor1990&layout=compact&title_color=fff&text_color=fff&icon_color=90774f&bg_color=151515"/>
+<img height="148" src="https://github-readme-stats-lobehub-bot.vercel.app/api?username=canisminor1990&show_icons=true&theme=radical&title_color=fff&text_color=fff&icon_color=90774f&bg_color=000&border_color=999"/>
+<img height="148" src="https://github-readme-stats-lobehub-bot.vercel.app/api/top-langs/?username=canisminor1990&layout=compact&title_color=fff&text_color=fff&icon_color=90774f&bg_color=000&border_color=999"/>
 </div>
 
 <br/>
@@ -28,12 +23,11 @@ Hello, I'm Canis Minor, a `Design Engineer` based in Chengdu China.
 
 ### 💫 Tech Stack and Tools
 
-| End                  | Stack                                                                                                                                                                                    |
-| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![][header-design]   | ![][adobe] ![][sketch] ![][figma] ![][blender] ![][cinema4d] ![][stable-diffusion] ![][sai] ![][live2d]                                                                                  |
-| ![][header-frontend] | ![][react] ![][zustand] ![][react-spring] ![][antd] ![][styled] ![][Umi] ![][dumi] ![][electron] ![][three] ![][react-three]                                                             |
+| :------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![][header-frontend] | ![][react] ![][nextjs] ![][zustand] ![][react-spring] ![][antd] ![][styled] ![][Umi] ![][dumi] ![][electron] ![][three] ![][react-three]                                                             |
 | ![][header-backend]  | ![][node] ![][graphql] ![][sqlite] ![][mongodb] ![][postgresql] ![][nginx] ![][egg] ![][keystone] ![][prisma]                                                                            |
-| ![][header-devops]   | ![][docker] ![][github-action] ![][semantic-release] ![][gitmoji] ![][lobe-commit] ![][vercel] ![][prettier] <br/> ![][eslint] ![][stylelint] ![][commitlint] ![][changelog] ![][remark] |
+| ![][header-devops]   | ![][bun] ![][docker] ![][github-action] ![][semantic-release] ![][gitmoji] ![][lobe-commit] ![][vercel] ![][prettier] <br/> ![][eslint] ![][stylelint] ![][commitlint] ![][changelog] ![][remark] |
 | ![][header-ide]      | ![][webstorm] ![][datagrap] ![][vscode] ![][sublime] ![][gitpod] ![][sandbox]                                                                                                            |
 | ![][header-os]       | ![][mac] ![][win] ![][ubuntu] ![][centos] ![][debian] ![][openwrt]                                                                                                                       |
 | ![][header-shell]    | ![][iterm] ![][terminal] ![][fish] ![][oh-my-posh]                                                                                                                                       |
@@ -41,9 +35,18 @@ Hello, I'm Canis Minor, a `Design Engineer` based in Chengdu China.
 
 <br/>
 
-![][split]
+### ⭐️ Projects
 
-### 👀 Media Info
+| [**🤖 Lobe Chat**][lobe-chat-github]<br/>An open-source, extensible (Function Calling), high-performance chatbot framework. It supports one-click free deployment of your private ChatGPT/LLM web application.<br/><br/>![][lobe-chat-shield]                                                                                                | [![][lobe-chat-cover]][lobe-chat-github]     |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------- |
+| [**🤯 Lobe Theme**][lobe-theme-github]<br/>The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.<br/><br/>![][lobe-theme-shield]                                                                                                                                | [![][lobe-theme-cover]][lobe-theme-github]   |
+
+> **Note**\
+> Find more interesting projects in [🤯 LobeHub](https://github.com/lobehub)
+
+<br>
+
+### 👀 Social Media
 
 <details>
   <summary><kbd>Click here to expand</kbd> ↩️</summary>
@@ -77,114 +80,114 @@ Hello, I'm Canis Minor, a `Design Engineer` based in Chengdu China.
 
 [split]: https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png
 
-<!-- LANG -->
-
-[lang-html]: https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white
-[lang-css]: https://img.shields.io/badge/-CSS_in_JS-C69D00?style=flat-square&logoColor=white&logo=css3
-[lang-typescript]: https://img.shields.io/badge/-TypeScript-2f74c0?style=flat-square&logoColor=white&logo=typescript
-[lang-bun]: https://img.shields.io/badge/-Bun-444?style=flat-square&logoColor=white&logo=bun
-
 <!-- SOCIAL -->
 
-[website-shield]: https://img.shields.io/website?down_message=offline&label=canisminor.cc&up_message=online&url=https%3A%2F%2Fcanisminor.cc&style=flat-square
-[website-url]: https://canisminor.cc
-[qq-shield]: https://img.shields.io/badge/-@40073838-007AFF?style=flat-square&logoColor=white&logo=tencentqq
-[qq-url]: http://wpa.qq.com/msgrd?v=3&uin=40073838&site=qq&menu=yes
-[wechat-shield]: https://img.shields.io/badge/-@canisminor-00C25F?style=flat-square&logoColor=white&logo=wechat
-[wechat-url]: https://canisminor.cc/img/qrcode.png
-[follow-shield]: https://img.shields.io/github/followers/canisminor1990?label=Follow&style=social
-[follow-url]: https://github.com/canisminor1990
-[discord-shield]: https://dcbadge.vercel.app/api/shield/447640465051746304?style=flat-square
+[design-engineer-shield]:  https://img.shields.io/badge/%F0%9F%8E%A8%26%E2%9A%92%EF%B8%8F-Design%20Engineer-white?labelColor=black&style=flat-square
+[qq-shield]: https://img.shields.io/badge/-40073838-8ae8ff?labelColor=black&logo=tencentqq&style=flat-square
+[wechat-shield]: https://img.shields.io/badge/-40073838-c4f042?labelColor=black&logo=wechat&logoColor=white&style=flat-square
+[follow-shield]: https://img.shields.io/github/followers/canisminor1990?style=flat-square&logo=github&labelColor=black&color=ff80eb
+[discord-shield]: https://img.shields.io/badge/-canisminor1990-B0A3FF?labelColor=black&logo=discord&logoColor=white&style=flat-square
+
+<!-- PROJECTS -->
+
+[lobe-chat-cover]: https://gw.alipayobjects.com/zos/kitchen/sLO%24gbrQtp/lobe-chat.webp
+[lobe-chat-github]: https://github.com/lobehub/lobe-chat
+[lobe-chat-shield]: https://img.shields.io/github/stars/lobehub/lobe-chat?color=ffcb47&labelColor=black&style=flat-square&logo=github
+[lobe-theme-cover]: https://gw.alipayobjects.com/zos/kitchen/8Ab%24hLJ5ur/cover.webp
+[lobe-theme-github]: https://github.com/lobehub/sd-webui-lobe-theme
+[lobe-theme-shield]: https://img.shields.io/github/stars/lobehub/sd-webui-lobe-theme?color=ffcb47&labelColor=black&style=flat-square&logo=github
 
 <!-- STACK_HEADER -->
 
-[header-design]: https://img.shields.io/badge/-Design-151515?style=flat-square
-[header-frontend]: https://img.shields.io/badge/-Frontend-151515?style=flat-square
-[header-backend]: https://img.shields.io/badge/-Backend-151515?style=flat-square
-[header-devops]: https://img.shields.io/badge/-Devops-151515?style=flat-square
-[header-ide]: https://img.shields.io/badge/-IDE-151515?style=flat-square
-[header-os]: https://img.shields.io/badge/-OS-151515?style=flat-square
-[header-shell]: https://img.shields.io/badge/-Shell-151515?style=flat-square
-[header-other]: https://img.shields.io/badge/-Other-151515?style=flat-square
+[header-design]: https://img.shields.io/badge/-DESIGN-000?style=flat-square
+[header-frontend]: https://img.shields.io/badge/-FRONTEND-000?style=flat-square
+[header-backend]: https://img.shields.io/badge/-BACKEND-000?style=flat-square
+[header-devops]: https://img.shields.io/badge/-DEVOPS-000?style=flat-square
+[header-ide]: https://img.shields.io/badge/-IDE-000?style=flat-square
+[header-os]: https://img.shields.io/badge/-OS-000?style=flat-square
+[header-shell]: https://img.shields.io/badge/-SHELL-000?style=flat-square
+[header-other]: https://img.shields.io/badge/-OTHER-000?style=flat-square
 
 <!-- STACK_DESIGN -->
 
-[adobe]: https://img.shields.io/badge/-Adobe-151515?style=flat-square&logoColor=white&logo=adobe
-[sketch]: https://img.shields.io/badge/-Sketch-151515?style=flat-square&logoColor=white&logo=sketch
-[figma]: https://img.shields.io/badge/-Figma-151515?style=flat-square&logoColor=white&logo=figma
-[blender]: https://img.shields.io/badge/-Blender-151515?style=flat-square&logoColor=white&logo=blender
-[cinema4d]: https://img.shields.io/badge/-Cinema4D-151515?style=flat-square&logoColor=white&logo=cinema4d
-[sai]: https://img.shields.io/badge/-SAI-151515?style=flat-square
-[live2d]: https://img.shields.io/badge/-Live2D-151515?style=flat-square
+[adobe]: https://img.shields.io/badge/-Adobe-000?style=flat-square&logoColor=white&logo=adobe
+[sketch]: https://img.shields.io/badge/-Sketch-000?style=flat-square&logoColor=white&logo=sketch
+[figma]: https://img.shields.io/badge/-Figma-000?style=flat-square&logoColor=white&logo=figma
+[blender]: https://img.shields.io/badge/-Blender-000?style=flat-square&logoColor=white&logo=blender
+[cinema4d]: https://img.shields.io/badge/-Cinema4D-000?style=flat-square&logoColor=white&logo=cinema4d
+[sai]: https://img.shields.io/badge/-SAI-000?style=flat-square
+[live2d]: https://img.shields.io/badge/-Live2D-000?style=flat-square
 
 <!-- STACK_FRONTEND -->
 
-[react]: https://img.shields.io/badge/-React-151515?style=flat-square&logoColor=white&logo=react
-[antd]: https://img.shields.io/badge/-Ant_Design-151515?style=flat-square&logoColor=white&logo=ant-design
-[umi]: https://img.shields.io/badge/-UMI-151515?style=flat-square
-[dumi]: https://img.shields.io/badge/-DUMI-151515?style=flat-square
-[styled]: https://img.shields.io/badge/-Styled_Components-151515?style=flat-square&logo=styled-components&logoColor=white
-[three]: https://img.shields.io/badge/-Three.js-151515?style=flat-square&logoColor=white&logo=threedotjs
-[electron]: https://img.shields.io/badge/-Electron-151515?style=flat-square&logoColor=white&logo=electron
-[zustand]: https://img.shields.io/badge/-🐻_Zustand-151515?style=flat-square
-[react-spring]: https://img.shields.io/badge/-✌️_React_Spring-151515?style=flat-square
-[react-three]: https://img.shields.io/badge/-🇨🇭_React_Three-151515?style=flat-square
+[nextjs]: https://img.shields.io/badge/-Next.js-black?logo=nextdotjs&style=flat-square
+[react]: https://img.shields.io/badge/-React-000?style=flat-square&logoColor=white&logo=react
+[antd]: https://img.shields.io/badge/-Ant_Design-000?style=flat-square&logoColor=white&logo=ant-design
+[umi]: https://img.shields.io/badge/-UMI-000?style=flat-square&logo=umami
+[dumi]: https://img.shields.io/badge/-DUMI-000?style=flat-square
+[styled]: https://img.shields.io/badge/-Styled_Components-000?style=flat-square&logo=styled-components&logoColor=white
+[three]: https://img.shields.io/badge/-Three.js-000?style=flat-square&logoColor=white&logo=threedotjs
+[electron]: https://img.shields.io/badge/-Electron-000?style=flat-square&logoColor=white&logo=electron
+[zustand]: https://img.shields.io/badge/-🐻_Zustand-000?style=flat-square
+[react-spring]: https://img.shields.io/badge/-✌️_React_Spring-000?style=flat-square
+[react-three]: https://img.shields.io/badge/-🇨🇭_React_Three-000?style=flat-square
 
 <!-- STACK_BACKEND -->
 
-[node]: https://img.shields.io/badge/-Node.js-151515?style=flat-square&logoColor=white&logo=node.js
-[egg]: https://img.shields.io/badge/-Egg-151515?style=flat-square&logoColor=white
-[sqlite]: https://img.shields.io/badge/-SQLite-151515?style=flat-square&logoColor=white&logo=sqlite
-[postgresql]: https://img.shields.io/badge/-PostgreSQL-151515?style=flat-square&logoColor=white&logo=postgresql
-[mongodb]: https://img.shields.io/badge/-MongoDB-151515?style=flat-square&logoColor=white&logo=mongodb
-[nginx]: https://img.shields.io/badge/-Nginx-151515?style=flat-square&logoColor=white&logo=nginx
-[graphql]: https://img.shields.io/badge/-GraphQL-151515?style=flat-square&logoColor=white&logo=graphql
-[keystone]: https://img.shields.io/badge/-Keystone-151515?style=flat-square&logoColor=white&logo=keystone
-[prisma]: https://img.shields.io/badge/-Prisma-151515?style=flat-square&logoColor=white&logo=prisma
+[node]: https://img.shields.io/badge/-Node.js-000?style=flat-square&logoColor=white&logo=node.js
+[egg]: https://img.shields.io/badge/-Egg-000?style=flat-square&logoColor=white
+[sqlite]: https://img.shields.io/badge/-SQLite-000?style=flat-square&logoColor=white&logo=sqlite
+[postgresql]: https://img.shields.io/badge/-PostgreSQL-000?style=flat-square&logoColor=white&logo=postgresql
+[mongodb]: https://img.shields.io/badge/-MongoDB-000?style=flat-square&logoColor=white&logo=mongodb
+[nginx]: https://img.shields.io/badge/-Nginx-000?style=flat-square&logoColor=white&logo=nginx
+[graphql]: https://img.shields.io/badge/-GraphQL-000?style=flat-square&logoColor=white&logo=graphql
+[keystone]: https://img.shields.io/badge/-Keystone-000?style=flat-square&logoColor=white&logo=keystone
+[prisma]: https://img.shields.io/badge/-Prisma-000?style=flat-square&logoColor=white&logo=prisma
 
 <!-- STACK_DEVOPS -->
 
-[docker]: https://img.shields.io/badge/-Docker-151515?style=flat-square&logoColor=white&logo=docker
-[github-action]: https://img.shields.io/badge/-GitHub_Actions-151515?style=flat-square&logoColor=white&logo=github
-[gitmoji]: https://img.shields.io/badge/-😉_Gitmoji_Commit_Workflow-151515?style=flat-square
-[lobe-commit]: https://img.shields.io/badge/-🤯_Lobe_Commit-151515?style=flat-square
-[semantic-release]: https://img.shields.io/badge/-Semantic_Release-151515?style=flat-square&logoColor=white&logo=semanticrelease
-[vercel]: https://img.shields.io/badge/-Vercel-151515?style=flat-square&logoColor=white&logo=vercel
-[prettier]: https://img.shields.io/badge/-Prettier-151515?style=flat-square&logoColor=white&logo=prettier
-[eslint]: https://img.shields.io/badge/-ESlint-151515?style=flat-square&logoColor=white&logo=eslint
-[stylelint]: https://img.shields.io/badge/-Stylelint-151515?style=flat-square&logoColor=white&logo=stylelint
-[commitlint]: https://img.shields.io/badge/-Commitlint-151515?style=flat-square&logoColor=white&logo=commitlint
-[changelog]: https://img.shields.io/badge/-Conventional_Changelog-151515?style=flat-square&logoColor=white&logo=conventionalcommits
-[remark]: https://img.shields.io/badge/-Remark-151515?style=flat-square&logoColor=white&logo=markdown
+[bun]: https://img.shields.io/badge/-Bun-000?style=flat-square&logoColor=white&logo=bun
+[docker]: https://img.shields.io/badge/-Docker-000?style=flat-square&logoColor=white&logo=docker
+[github-action]: https://img.shields.io/badge/-GitHub_Actions-000?style=flat-square&logoColor=white&logo=github
+[gitmoji]: https://img.shields.io/badge/-😉_Gitmoji_Commit_Workflow-000?style=flat-square
+[lobe-commit]: https://img.shields.io/badge/-🤯_Lobe_Commit-000?style=flat-square
+[semantic-release]: https://img.shields.io/badge/-Semantic_Release-000?style=flat-square&logoColor=white&logo=semanticrelease
+[vercel]: https://img.shields.io/badge/-Vercel-000?style=flat-square&logoColor=white&logo=vercel
+[prettier]: https://img.shields.io/badge/-Prettier-000?style=flat-square&logoColor=white&logo=prettier
+[eslint]: https://img.shields.io/badge/-ESlint-000?style=flat-square&logoColor=white&logo=eslint
+[stylelint]: https://img.shields.io/badge/-Stylelint-000?style=flat-square&logoColor=white&logo=stylelint
+[commitlint]: https://img.shields.io/badge/-Commitlint-000?style=flat-square&logoColor=white&logo=commitlint
+[changelog]: https://img.shields.io/badge/-Conventional_Changelog-000?style=flat-square&logoColor=white&logo=conventionalcommits
+[remark]: https://img.shields.io/badge/-Remark-000?style=flat-square&logoColor=white&logo=remark
 
 <!-- STACK_IDE -->
 
-[webstorm]: https://img.shields.io/badge/-Webstorm-151515?style=flat-square&logoColor=white&logo=webstorm
-[datagrap]: https://img.shields.io/badge/-DataGrap-151515?style=flat-square&logoColor=white&logo=datagrip
-[vscode]: https://img.shields.io/badge/-VS_Code-151515?style=flat-square&logoColor=white&logo=visualstudiocode
-[sublime]: https://img.shields.io/badge/-Sublime-151515?style=flat-square&logoColor=white&logo=sublimetext
-[gitpod]: https://img.shields.io/badge/-Gitpod-151515?style=flat-square&logoColor=white&logo=gitpod
-[sandbox]: https://img.shields.io/badge/-Code_Sand_Box-151515?style=flat-square&logoColor=white&logo=codesandbox
+[webstorm]: https://img.shields.io/badge/-Webstorm-000?style=flat-square&logoColor=white&logo=webstorm
+[datagrap]: https://img.shields.io/badge/-DataGrap-000?style=flat-square&logoColor=white&logo=datagrip
+[vscode]: https://img.shields.io/badge/-VS_Code-000?style=flat-square&logoColor=white&logo=visualstudiocode
+[sublime]: https://img.shields.io/badge/-Sublime-000?style=flat-square&logoColor=white&logo=sublimetext
+[gitpod]: https://img.shields.io/badge/-Gitpod-000?style=flat-square&logoColor=white&logo=gitpod
+[sandbox]: https://img.shields.io/badge/-Code_Sand_Box-000?style=flat-square&logoColor=white&logo=codesandbox
 
 <!-- STACK_OS -->
 
-[mac]: https://img.shields.io/badge/-MacOS-151515?style=flat-square&logoColor=white&logo=apple
-[win]: https://img.shields.io/badge/-Win11-151515?style=flat-square&logoColor=white&logo=windows11
-[ubuntu]: https://img.shields.io/badge/-Ubuntu-151515?style=flat-square&logoColor=white&logo=ubuntu
-[centos]: https://img.shields.io/badge/-CentOS-151515?style=flat-square&logoColor=white&logo=centos
-[debian]: https://img.shields.io/badge/-Debian-151515?style=flat-square&logoColor=white&logo=debian
-[openwrt]: https://img.shields.io/badge/-OpenWRT-151515?style=flat-square&logoColor=white&logo=openwrt
+[mac]: https://img.shields.io/badge/-MacOS-000?style=flat-square&logoColor=white&logo=apple
+[win]: https://img.shields.io/badge/-Win11-000?style=flat-square&logoColor=white&logo=windows11
+[ubuntu]: https://img.shields.io/badge/-Ubuntu-000?style=flat-square&logoColor=white&logo=ubuntu
+[centos]: https://img.shields.io/badge/-CentOS-000?style=flat-square&logoColor=white&logo=centos
+[debian]: https://img.shields.io/badge/-Debian-000?style=flat-square&logoColor=white&logo=debian
+[openwrt]: https://img.shields.io/badge/-OpenWRT-000?style=flat-square&logoColor=white&logo=openwrt
 
 <!-- STACK_SHELL -->
 
-[iterm]: https://img.shields.io/badge/-iTerm-151515?style=flat-square&logoColor=white&logo=iterm2
-[terminal]: https://img.shields.io/badge/-Windows_Terminal-151515?style=flat-square&logoColor=white&logo=windowsterminal
-[fish]: https://img.shields.io/badge/-Fish_Shell-151515?style=flat-square&logoColor=white
-[oh-my-posh]: https://img.shields.io/badge/-Oh_My_Posh-151515?style=flat-square&logoColor=white
+[iterm]: https://img.shields.io/badge/-iTerm-000?style=flat-square&logoColor=white&logo=iterm2
+[terminal]: https://img.shields.io/badge/-Windows_Terminal-000?style=flat-square&logoColor=white&logo=windowsterminal
+[fish]: https://img.shields.io/badge/-Fish_Shell-000?style=flat-square&logoColor=white
+[oh-my-posh]: https://img.shields.io/badge/-Oh_My_Posh-000?style=flat-square&logoColor=white
 
 <!-- STACK_OTHERr -->
 
-[sketch-plugin]: https://img.shields.io/badge/-Sketch_Plugin_Dev-151515?style=flat-square&logoColor=white&logo=sketch
-[chatgpt]: https://img.shields.io/badge/-ChatGPT-151515?style=flat-square&logoColor=white&logo=openai
-[stable-diffusion]: https://img.shields.io/badge/-🤗_Stable_Diffusion-151515?style=flat-square&logoColor=white
-[notion]: https://img.shields.io/badge/-Notion-151515?style=flat-square&logoColor=white&logo=notion
+[sketch-plugin]: https://img.shields.io/badge/-Sketch_Plugin_Dev-000?style=flat-square&logoColor=white&logo=sketch
+[chatgpt]: https://img.shields.io/badge/-ChatGPT-000?style=flat-square&logoColor=white&logo=openai
+[stable-diffusion]: https://img.shields.io/badge/-🤗_Stable_Diffusion-000?style=flat-square&logoColor=white
+[notion]: https://img.shields.io/badge/-Notion-000?style=flat-square&logoColor=white&logo=notion
