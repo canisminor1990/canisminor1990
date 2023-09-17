@@ -47,15 +47,10 @@ A `Design Engineer` based in Chengdu China<br/>Passionate about open source proj
 
 ---
 
-<details>
-  <summary><h4>👀 Social Media</h4></summary>
-  <br>
-  <div align="center">
-    <img width="390" alt="Left" src="https://raw.githubusercontent.com/canisminor1990/canisminor1990/main/assets/left.svg">
-    <img width="16"/>
-    <img width="390" alt="Right" src="https://raw.githubusercontent.com/canisminor1990/canisminor1990/main/assets/right.svg">
-  </div>
-</details>
+<details><summary><b>👀 Social Media</b></summary>
+
+| ![](https://raw.githubusercontent.com/canisminor1990/canisminor1990/main/assets/left.svg) | ![](https://raw.githubusercontent.com/canisminor1990/canisminor1990/main/assets/right.svg)|
+| --- | --- |
 
 <!--START_SECTION:waka-->
 
@@ -71,6 +66,11 @@ A `Design Engineer` based in Chengdu China<br/>Passionate about open source proj
 Last Updated on 16/09/2023 18:05:38 UTC
 
 <!--END_SECTION:waka-->
+
+</details>
+
+Hit me up anytime and come vibe with our lit project<br/>
+Let's make some magic happen 😗😼❤️
 
 <!-- SHIELD GROUP -->
 
