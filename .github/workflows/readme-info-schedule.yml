@@ -24,7 +24,6 @@ jobs:
           plugin_stars_limit: 3
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_fortune: yes
           token: ${{ secrets.GH_TOKEN }}
 
       - name: 🐈‍⬛ Rihgt
