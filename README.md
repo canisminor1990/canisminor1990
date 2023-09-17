@@ -32,7 +32,6 @@ a `Design Engineer` chillin'in Chengdu, China<br/>Hyped about open source projec
 | ![][h-shell]    | ![][shell-iterm] ![][shell-terminal] ![][shell-fish] ![][shell-oh-my-posh]                                                                                                                                                                      |
 | ![][h-other]    | ![][other-sketch-plugin] ![][other-chatgpt] ![][other-notion]                                                                                                                                                                                   |
 
-<br/>
 
 ### ⭐️ Projects
 
@@ -43,7 +42,6 @@ a `Design Engineer` chillin'in Chengdu, China<br/>Hyped about open source projec
 > **Note**\
 > Find more interesting projects in [🤯 LobeHub](https://github.com/lobehub)
 
-<br>
 
 ---
 
