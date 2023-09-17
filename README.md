@@ -4,7 +4,7 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50px" style="max-width: 100%;"> Hi there, I'm <a href="https://github.com/canisminor1990">𝓒𝓪𝓷𝓲𝓼𝓜𝓲𝓷𝓸𝓻</a></h1>
 
-A `Design Engineer` based in Chengdu China<br/>Passionate about open source projects & Committed to being a craftsman who creates beauty
+a `Design Engineer` chillin'in Chengdu, China<br/>Hyped about open source projects & Dedicated to being a craftsman who creates beauty
 
 ![][social-design-engineer]
 ![][social-follow]
