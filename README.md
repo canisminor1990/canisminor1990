@@ -45,10 +45,10 @@ A `Design Engineer` based in Chengdu China<br/>Passionate about open source proj
 
 <br>
 
-### 👀 Social Media
+---
 
 <details>
-  <summary><kbd>Click here to expand</kbd> ↩️</summary>
+  <summary><h4>👀 Social Media</h4></summary>
   <br>
   <div align="center">
     <img width="390" alt="Left" src="https://raw.githubusercontent.com/canisminor1990/canisminor1990/main/assets/left.svg">
