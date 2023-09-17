@@ -2,7 +2,7 @@
 
 ![](https://github-production-user-asset-6210df.s3.amazonaws.com/17870709/268487157-a1c73ca6-8427-42da-9bda-4b18e04f02d4.png)
 
-<h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50px" style="max-width: 100%;"> Hi there, I'm <a href="https://github.com/canisminor1990">𝓒𝓪𝓷𝓲𝓼𝓜𝓲𝓷𝓸𝓻</a></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50px" style="max-width: 100%;"> Hi there, I'm 𝓒𝓪𝓷𝓲𝓼𝓜𝓲𝓷𝓸𝓻</h1>
 
 a `Design Engineer` chillin'in Chengdu, China<br/>Hyped about open source projects & Dedicated to being a craftsman who creates beauty
 
