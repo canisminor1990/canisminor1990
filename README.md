@@ -67,8 +67,9 @@ As a **Design Engineer** chillin'in Chengdu, China<br/>Hyped about open source p
 
 </details>
 
-Hit me up anytime and come vibe with our lit project<br/>
-Let's make some magic happen 😗😼❤️
+Hit me up anytime and come vibe with our lit project. Let's make some magic happen 😗😼❤️
+
+> _Generate by [🧙‍♂️ Readme Wizard](https://github.com/lobehub/lobe-readme-wizard 'Generate lobe style product README by MAGIC')_
 
 <!-- SHIELD GROUP -->
 
