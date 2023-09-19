@@ -62,7 +62,7 @@ As a **Design Engineer** chillin'in Chengdu, China<br/>Hyped about open source p
 
 
 
- Last Updated on 18/09/2023 18:07:39 UTC
+ Last Updated on 19/09/2023 18:07:52 UTC
 <!--END_SECTION:waka-->
 
 </details>
