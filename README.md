@@ -4,9 +4,9 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50px" style="max-width: 100%;"> Hi there, I'm 𝓒𝓪𝓷𝓲𝓼𝓜𝓲𝓷𝓸𝓻</h1>
 
-As a **UX Engineer** chillin'in Chengdu, China<br/>Hyped about open source projects & Dedicated to being a craftsman who creates sh*t beauty
+As a **Design Engineer** chillin'in Chengdu, China<br/>Hyped about open source projects & Dedicated to being a craftsman who creates sh*t beauty
 
-![][social-ux-engineer]
+![][social-design-engineer]
 ![][social-follow]
 ![][social-qq]
 ![][social-wechat]
@@ -147,7 +147,7 @@ Hit me up anytime and come vibe with our lit project. Let's make some magic happ
 [shell-iterm]: https://img.shields.io/badge/-iTerm-000?style=flat-square&logoColor=white&logo=iterm2
 [shell-oh-my-posh]: https://img.shields.io/badge/-Oh_My_Posh-000?style=flat-square&logoColor=white
 [shell-terminal]: https://img.shields.io/badge/-Windows_Terminal-000?style=flat-square&logoColor=white&logo=windowsterminal
-[social-ux-engineer]: https://img.shields.io/badge/%F0%9F%8E%A8%26%E2%9A%92%EF%B8%8F-UX%20Engineer-white?labelColor=black&style=flat-square
+[social-design-engineer]: https://img.shields.io/badge/%F0%9F%8E%A8%26%E2%9A%92%EF%B8%8F-Design%20Engineer-white?labelColor=black&style=flat-square
 [social-discord]: https://img.shields.io/badge/-canisminor1990-B0A3FF?labelColor=black&logo=discord&logoColor=white&style=flat-square
 [social-follow]: https://img.shields.io/github/followers/canisminor1990?style=flat-square&logo=github&labelColor=black&color=ff80eb
 [social-qq]: https://img.shields.io/badge/-40073838-8ae8ff?labelColor=black&logo=tencentqq&style=flat-square
