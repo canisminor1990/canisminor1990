@@ -8,10 +8,12 @@ As a **Design Engineer** chillin'in Chengdu, China<br/>Hyped about open source p
 
 ![][social-design-engineer]
 ![][social-follow]
-[![][social-bilibili]](https://space.bilibili.com/410372)
-![][social-qq]
-![][social-wechat]
-![][social-discord]
+[![][social-bilibili]](https://space.bilibili.com/410372)<br/>
+![][social-qq-shield]
+![][social-wechat-shield]
+![][social-discord-shield]
+[![][social-steam-shield]][social-steam-link]
+[![][social-x-shield]][social-x-link]
 
 <img height="148" src="https://github-readme-stats-lobehub-bot.vercel.app/api?username=canisminor1990&show_icons=true&theme=radical&title_color=fff&text_color=fff&icon_color=90774f&bg_color=000&border_color=999"/>
 <img height="148" src="https://github-readme-stats-lobehub-bot.vercel.app/api/top-langs/?username=canisminor1990&layout=compact&title_color=fff&text_color=fff&icon_color=90774f&bg_color=000&border_color=999"/>
@@ -149,9 +151,13 @@ Hit me up anytime and come vibe with our lit project. Let's make some magic happ
 [shell-oh-my-posh]: https://img.shields.io/badge/-Oh_My_Posh-000?style=flat-square&logoColor=white
 [shell-terminal]: https://img.shields.io/badge/-Windows_Terminal-000?style=flat-square&logoColor=white&logo=windowsterminal
 [social-design-engineer]: https://img.shields.io/badge/%F0%9F%8E%A8%26%E2%9A%92%EF%B8%8F-Design%20Engineer-white?labelColor=black&style=flat-square
-[social-discord]: https://img.shields.io/badge/-canisminor1990-B0A3FF?labelColor=black&logo=discord&logoColor=white&style=flat-square
 [social-follow]: https://img.shields.io/github/followers/canisminor1990?style=flat-square&logo=github&labelColor=black&color=ffcb47
 [social-bilibili]: https://bilistats.lonelyion.com/followers?uid=410372&logo_color=white&label_color=black&color=ff80eb&label=followers
-[social-qq]: https://img.shields.io/badge/-40073838-8ae8ff?labelColor=black&logo=tencentqq&style=flat-square
-[social-wechat]: https://img.shields.io/badge/-40073838-c4f042?labelColor=black&logo=wechat&logoColor=white&style=flat-square
+[social-qq-shield]: https://img.shields.io/badge/-40073838-black?labelColor=black&logo=tencentqq&logoColor=white&style=flat-square
+[social-wechat-shield]: https://img.shields.io/badge/-40073838-black?labelColor=black&logo=wechat&logoColor=white&style=flat-square
+[social-discord-shield]: https://img.shields.io/badge/-canisminor1990-black?labelColor=black&logo=discord&logoColor=white&style=flat-square
+[social-steam-shield]: https://img.shields.io/badge/-canisminor-black?labelColor=black&logo=steam&logoColor=white&style=flat-square
+[social-steam-link]: https://steamcommunity.com/id/canisminor
+[social-x-shield]: https://img.shields.io/badge/-canisminor1990-black?labelColor=black&logo=x&logoColor=white&style=flat-square
+[social-x-link]: https://x.com/canisminor1990
 [split]: https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png
