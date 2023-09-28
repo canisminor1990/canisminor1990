@@ -8,6 +8,7 @@ As a **Design Engineer** chillin'in Chengdu, China<br/>Hyped about open source p
 
 ![][social-design-engineer]
 ![][social-follow]
+[![][social-bilibili]](https://space.bilibili.com/410372)
 ![][social-qq]
 ![][social-wechat]
 ![][social-discord]
@@ -149,7 +150,8 @@ Hit me up anytime and come vibe with our lit project. Let's make some magic happ
 [shell-terminal]: https://img.shields.io/badge/-Windows_Terminal-000?style=flat-square&logoColor=white&logo=windowsterminal
 [social-design-engineer]: https://img.shields.io/badge/%F0%9F%8E%A8%26%E2%9A%92%EF%B8%8F-Design%20Engineer-white?labelColor=black&style=flat-square
 [social-discord]: https://img.shields.io/badge/-canisminor1990-B0A3FF?labelColor=black&logo=discord&logoColor=white&style=flat-square
-[social-follow]: https://img.shields.io/github/followers/canisminor1990?style=flat-square&logo=github&labelColor=black&color=ff80eb
+[social-follow]: https://img.shields.io/github/followers/canisminor1990?style=flat-square&logo=github&labelColor=black&color=ffcb47
+[social-bilibili]: https://bilistats.lonelyion.com/followers?uid=410372&logo_color=white&label_color=black&color=ff80eb&label=followers
 [social-qq]: https://img.shields.io/badge/-40073838-8ae8ff?labelColor=black&logo=tencentqq&style=flat-square
 [social-wechat]: https://img.shields.io/badge/-40073838-c4f042?labelColor=black&logo=wechat&logoColor=white&style=flat-square
 [split]: https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png
