@@ -46,9 +46,9 @@ As a **Design Engineer** chillin'in Chengdu, China<br/>Hyped about open source p
 > Find more interesting projects in [🤯 LobeHub](https://github.com/lobehub)
 
 
----
+<br/>
 
-<details><summary><b>👀 Social Media</b></summary>
+### 👀 Social Media
 
 | ![](https://raw.githubusercontent.com/canisminor1990/canisminor1990/main/assets/left.svg) | ![](https://raw.githubusercontent.com/canisminor1990/canisminor1990/main/assets/right.svg)|
 | --- | --- |
@@ -68,7 +68,7 @@ As a **Design Engineer** chillin'in Chengdu, China<br/>Hyped about open source p
  Last Updated on 04/10/2023 18:07:20 UTC
 <!--END_SECTION:waka-->
 
-</details>
+
 
 Hit me up anytime and come vibe with our lit project. Let's make some magic happen 😗😼❤️
 
