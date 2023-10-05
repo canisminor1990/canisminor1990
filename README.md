@@ -154,7 +154,7 @@ Hit me up anytime and come vibe with our lit project. Let's make some magic happ
 [social-follow]: https://img.shields.io/github/followers/canisminor1990?style=flat-square&logo=github&labelColor=black&color=ffcb47
 [social-bilibili]: https://bilistats.lonelyion.com/followers?uid=410372&logo_color=white&label_color=black&color=ff80eb&label=followers
 [social-qq-shield]: https://img.shields.io/badge/-40073838-black?labelColor=black&logo=tencentqq&logoColor=white&style=flat-square
-[social-wechat-shield]: https://img.shields.io/badge/-40073838-black?labelColor=black&logo=wechat&logoColor=white&style=flat-square
+[social-wechat-shield]: https://img.shields.io/badge/-canisminor-black?labelColor=black&logo=wechat&logoColor=white&style=flat-square
 [social-discord-shield]: https://img.shields.io/badge/-canisminor1990-black?labelColor=black&logo=discord&logoColor=white&style=flat-square
 [social-steam-shield]: https://img.shields.io/badge/-canisminor-black?labelColor=black&logo=steam&logoColor=white&style=flat-square
 [social-steam-link]: https://steamcommunity.com/id/canisminor
