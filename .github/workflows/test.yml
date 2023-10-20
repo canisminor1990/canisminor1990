@@ -7,18 +7,22 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Install pnpm
-        uses: pnpm/action-setup@v2
-        with:
-          version: 8
-
-      - name: Setup Node.js environment
-        uses: actions/setup-node@v3
-        with:
-          node-version: '18'
+      - name: Install bun
+        uses: oven-sh/setup-bun@v1
 
       - name: Install deps
-        run: pnpm install
+        run: bun i
 
       - name: lint
-        run: pnpm run lint
+        run: bun run lint
+        
+      - name: Commit changes
+        run: |-
+          git diff
+          git config --global user.name "lobehubbot"
+          git config --global user.email "i@lobehub.com"
+          git add .
+          git commit -m "🤖 chore: Auto format" || exit 0
+          git push
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
