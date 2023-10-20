@@ -4,7 +4,7 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50px" style="max-width: 100%;"> Hi there, I'm 𝓒𝓪𝓷𝓲𝓼𝓜𝓲𝓷𝓸𝓻</h1>
 
-As a **Design Engineer** chillin'in Chengdu, China<br/>Hyped about open source projects & Dedicated to being a craftsman who creates sh*t beauty
+As a **Design Engineer** chillin'in Chengdu, China<br/>Hyped about open source projects & Dedicated to being a craftsman who creates sh\*t beauty
 
 ![][social-design-engineer]
 ![][social-follow]
@@ -35,7 +35,6 @@ As a **Design Engineer** chillin'in Chengdu, China<br/>Hyped about open source p
 | ![][h-shell]    | ![][shell-iterm] ![][shell-terminal] ![][shell-fish] ![][shell-oh-my-posh]                                                                                                                                                                      |
 | ![][h-other]    | ![][other-sketch-plugin] ![][other-chatgpt] ![][other-notion]                                                                                                                                                                                   |
 
-
 ### ⭐️ Projects
 
 | [**🤖 Lobe Chat**][lobe-chat-github]<br/>An open-source, extensible (Function Calling), high-performance chatbot framework. It supports one-click free deployment of your private ChatGPT/LLM web application.<br/><br/>![][lobe-chat-shield] | [![][lobe-chat-cover]][lobe-chat-github]   |
@@ -47,29 +46,27 @@ As a **Design Engineer** chillin'in Chengdu, China<br/>Hyped about open source p
 
 ### 👀 Social Media
 
-| ![](https://raw.githubusercontent.com/canisminor1990/canisminor1990/main/assets/left.svg) | ![](https://raw.githubusercontent.com/canisminor1990/canisminor1990/main/assets/right.svg)|
-| --- | --- |
+| ![](https://raw.githubusercontent.com/canisminor1990/canisminor1990/main/assets/left.svg) | ![](https://raw.githubusercontent.com/canisminor1990/canisminor1990/main/assets/right.svg) |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning                3324 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.30 % 
-🌆 Daytime                8001 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   36.82 % 
-🌃 Evening                7605 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   35.00 % 
-🌙 Night                  2800 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.89 % 
+🌞 Morning                3324 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.30 %
+🌆 Daytime                8001 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   36.82 %
+🌃 Evening                7605 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   35.00 %
+🌙 Night                  2800 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.89 %
 ```
 
+Last Updated on 19/10/2023 18:07:40 UTC
 
-
- Last Updated on 19/10/2023 18:07:40 UTC
 <!--END_SECTION:waka-->
-
-
 
 Hit me up anytime and come vibe with our lit project. Let's make some magic happen 😗😼❤️
 
-> _Generate by [🧙‍♂️ Readme Wizard](https://github.com/lobehub/lobe-readme-wizard 'Generate lobe style product README by MAGIC')_
+> _Generate by [🧙‍♂️ Readme Wizard](https://github.com/lobehub/lobe-readme-wizard "Generate lobe style product README by MAGIC")_
 
 <!-- SHIELD GROUP -->
 
