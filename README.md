@@ -15,8 +15,8 @@ As a **Design Engineer** chillin'in Chengdu, China<br/>Hyped about open source p
 [![][social-steam-shield]][social-steam-link]
 [![][social-x-shield]][social-x-link]
 
-<img height="148" src="https://github-readme-stats-lobehub-bot.vercel.app/api?username=canisminor1990&show_icons=true&theme=radical&title_color=fff&text_color=fff&icon_color=90774f&bg_color=000&border_color=999"/>
-<img height="148" src="https://github-readme-stats-lobehub-bot.vercel.app/api/top-langs/?username=canisminor1990&layout=compact&title_color=fff&text_color=fff&icon_color=90774f&bg_color=000&border_color=999"/>
+<img height="148" src="https://github-readme-stats.vercel.app/api?username=canisminor1990&show_icons=true&theme=radical&title_color=fff&text_color=fff&icon_color=90774f&bg_color=000&border_color=999"/>
+<img height="148" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canisminor1990&layout=compact&title_color=fff&text_color=fff&icon_color=90774f&bg_color=000&border_color=999"/>
 </div>
 
 <br/>
