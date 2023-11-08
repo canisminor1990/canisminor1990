@@ -25,7 +25,7 @@ As a **Design Engineer** chillin'in Chengdu, China<br/>Hyped about open source p
 
 ### 💫 Tech Stack and Tools
 
-| ![][h-design]   | ![][design-adobe] ![][design-sketch] ![][design-figma] ![][design-blender] ![][design-cinema4d] ![][design-stable-diffusion] ![][design-sai] ![][design-live2d]                                                                                 |
+| ![][h-design]   | ![][design-adobe] ![][design-sketch] ![][design-figma] ![][design-blender] ![][design-cinema4d] ![][design-stable-diffusion] ![][design-spline] ![][design-rive] ![][design-sai] ![][design-live2d]                                             |
 | :-------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![][h-frontend] | ![][frontend-react] ![][frontend-nextjs] ![][frontend-zustand] ![][frontend-react-spring] ![][frontend-antd] ![][frontend-styled] ![][frontend-umi] ![][frontend-dumi] ![][frontend-electron] ![][frontend-three] ![][frontend-react-three]     |
 | ![][h-backend]  | ![][backend-node] ![][backend-graphql] ![][backend-sqlite] ![][backend-mongodb] ![][backend-postgresql] ![][backend-nginx] ![][backend-egg] ![][backend-keystone] ![][backend-prisma]                                                           |
@@ -33,7 +33,7 @@ As a **Design Engineer** chillin'in Chengdu, China<br/>Hyped about open source p
 | ![][h-ide]      | ![][ide-webstorm] ![][ide-datagrap] ![][ide-vscode] ![][ide-sublime] ![][ide-codespace] ![][ide-sandbox]                                                                                                                                        |
 | ![][h-os]       | ![][os-mac] ![][os-win] ![][os-ubuntu] ![][os-centos] ![][os-debian] ![][os-openwrt]                                                                                                                                                            |
 | ![][h-shell]    | ![][shell-iterm] ![][shell-terminal] ![][shell-fish] ![][shell-oh-my-posh]                                                                                                                                                                      |
-| ![][h-other]    | ![][other-sketch-plugin] ![][other-chatgpt] ![][other-notion]                                                                                                                                                                                   |
+| ![][h-other]    | ![][other-sketch-plugin] ![][other-chatgpt] ![][other-langchain] ![][other-notion]                                                                                                                                                              |
 
 ### ⭐️ Projects
 
@@ -85,10 +85,12 @@ Hit me up anytime and come vibe with our lit project. Let's make some magic happ
 [design-figma]: https://img.shields.io/badge/-Figma-000?style=flat-square&logoColor=white&logo=figma
 [design-live2d]: https://img.shields.io/badge/-Live2D-000?style=flat-square
 [design-sai]: https://img.shields.io/badge/-SAI-000?style=flat-square
+[design-spline]: https://img.shields.io/badge/-Spline-000?style=flat-square
+[design-rive]: https://img.shields.io/badge/-Rive-000?style=flat-square
 [design-sketch]: https://img.shields.io/badge/-Sketch-000?style=flat-square&logoColor=white&logo=sketch
 [design-stable-diffusion]: https://img.shields.io/badge/-🤗_Stable_Diffusion-000?style=flat-square&logoColor=white
 [frontend-antd]: https://img.shields.io/badge/-Ant_Design-000?style=flat-square&logoColor=white&logo=ant-design
-[frontend-dumi]: https://img.shields.io/badge/-DUMI-000?style=flat-square
+[frontend-dumi]: https://img.shields.io/badge/-🧩_DUMI-000?style=flat-square
 [frontend-electron]: https://img.shields.io/badge/-Electron-000?style=flat-square&logoColor=white&logo=electron
 [frontend-nextjs]: https://img.shields.io/badge/-Next.js-black?logo=nextdotjs&style=flat-square
 [frontend-react]: https://img.shields.io/badge/-React-000?style=flat-square&logoColor=white&logo=react
@@ -138,9 +140,10 @@ Hit me up anytime and come vibe with our lit project. Let's make some magic happ
 [os-ubuntu]: https://img.shields.io/badge/-Ubuntu-000?style=flat-square&logoColor=white&logo=ubuntu
 [os-win]: https://img.shields.io/badge/-Win11-000?style=flat-square&logoColor=white&logo=windows11
 [other-chatgpt]: https://img.shields.io/badge/-ChatGPT-000?style=flat-square&logoColor=white&logo=openai
+[other-langchain]: https://img.shields.io/badge/-🦜_LangChain-000?style=flat-square
 [other-notion]: https://img.shields.io/badge/-Notion-000?style=flat-square&logoColor=white&logo=notion
 [other-sketch-plugin]: https://img.shields.io/badge/-Sketch_Plugin_Dev-000?style=flat-square&logoColor=white&logo=sketch
-[shell-fish]: https://img.shields.io/badge/-Fish_Shell-000?style=flat-square&logoColor=white
+[shell-fish]: https://img.shields.io/badge/-🐟_Fish_Shell-000?style=flat-square&logoColor=white
 [shell-iterm]: https://img.shields.io/badge/-iTerm-000?style=flat-square&logoColor=white&logo=iterm2
 [shell-oh-my-posh]: https://img.shields.io/badge/-Oh_My_Posh-000?style=flat-square&logoColor=white
 [shell-terminal]: https://img.shields.io/badge/-Windows_Terminal-000?style=flat-square&logoColor=white&logo=windowsterminal
