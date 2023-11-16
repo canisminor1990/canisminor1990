@@ -41,7 +41,7 @@ As a **Design Engineer** chillin'in Chengdu, China<br/>Hyped about open source p
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------- |
 | [**🤯 Lobe Theme**][lobe-theme-github]<br/>The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.<br/><br/>![][lobe-theme-shield]                                 | [![][lobe-theme-cover]][lobe-theme-github] |
 
-> [!NOTE]
+> \[!NOTE]
 > Find more interesting projects in [🤯 LobeHub](https://github.com/lobehub)
 
 ### 👀 Social Media
