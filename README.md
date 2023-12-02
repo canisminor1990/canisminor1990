@@ -16,8 +16,11 @@ As a **Design Engineer** chillin'in Chengdu, China<br/>Hyped about open source p
 [![][social-x-shield]][social-x-link]<br/>
 [![sponser](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-f04f88?logo=kofi&logoColor=white&style=flat-square)](https://ko-fi.com/canisminor1990 "Sponser me on Ko-Fi")
 
-<img height="148" src="https://github-readme-stats.vercel.app/api?username=canisminor1990&show_icons=true&theme=radical&title_color=fff&text_color=fff&icon_color=90774f&bg_color=000&border_color=999"/>
-<img height="148" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canisminor1990&layout=compact&title_color=fff&text_color=fff&icon_color=90774f&bg_color=000&border_color=999"/>
+<a href="https://ossinsight.io/analyze/canisminor1990" target="_blank">
+  <img height="148" src="https://github-readme-stats.vercel.app/api?username=canisminor1990&show_icons=true&theme=radical&title_color=fff&text_color=fff&icon_color=90774f&bg_color=000&border_color=999"/>
+  <img height="148" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canisminor1990&layout=compact&title_color=fff&text_color=fff&icon_color=90774f&bg_color=000&border_color=999"/>
+</a>
+
 </div>
 
 <br/>
