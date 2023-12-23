@@ -29,11 +29,11 @@ As a **Design Engineer** chillin'in Chengdu, China<br/>Hyped about open source p
 
 ### 💫 Tech Stack and Tools
 
-| ![][h-design]   | ![][design-adobe] ![][design-sketch] ![][design-figma] ![][design-blender] ![][design-cinema4d] ![][design-stable-diffusion] ![][design-spline] ![][design-rive] ![][design-sai] ![][design-live2d]                                             |
+| ![][h-design]   | ![][design-adobe] ![][design-sketch] ![][design-figma] ![][design-framer] ![][design-blender] ![][design-cinema4d] ![][design-stable-diffusion] ![][design-spline] ![][design-rive] ![][design-sai] ![][design-live2d]                                             |
 | :-------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![][h-frontend] | ![][frontend-react] ![][frontend-nextjs] ![][frontend-zustand] ![][frontend-react-spring] ![][frontend-antd] ![][frontend-styled] ![][frontend-umi] ![][frontend-dumi] ![][frontend-electron] ![][frontend-three] ![][frontend-react-three]     |
 | ![][h-backend]  | ![][backend-node] ![][backend-graphql] ![][backend-sqlite] ![][backend-mongodb] ![][backend-postgresql] ![][backend-nginx] ![][backend-egg] ![][backend-keystone] ![][backend-prisma]                                                           |
-| ![][h-devops]   | ![][ops-bun] ![][ops-docker] ![][ops-github-action] ![][ops-semantic-release] ![][ops-gitmoji] ![][ops-lobe-commit] ![][ops-vercel] ![][ops-prettier] ![][ops-eslint] ![][ops-stylelint] ![][ops-commitlint] ![][ops-changelog] ![][ops-remark] |
+| ![][h-devops]   | ![][ops-bun] ![][ops-docker] ![][ops-github-action] ![][ops-semantic-release] ![][ops-gitmoji] ![][ops-lobe-commit] ![][ops-lobe-i18n] ![][ops-vercel] ![][ops-prettier] ![][ops-eslint] ![][ops-stylelint] ![][ops-commitlint] ![][ops-changelog] ![][ops-remark] |
 | ![][h-ide]      | ![][ide-webstorm] ![][ide-datagrap] ![][ide-vscode] ![][ide-sublime] ![][ide-codespace] ![][ide-sandbox]                                                                                                                                        |
 | ![][h-os]       | ![][os-mac] ![][os-win] ![][os-ubuntu] ![][os-centos] ![][os-debian] ![][os-openwrt]                                                                                                                                                            |
 | ![][h-shell]    | ![][shell-iterm] ![][shell-terminal] ![][shell-fish] ![][shell-oh-my-posh]                                                                                                                                                                      |
@@ -87,9 +87,10 @@ Hit me up anytime and come vibe with our lit project. Let's make some magic happ
 [design-blender]: https://img.shields.io/badge/-Blender-000?style=flat-square&logoColor=white&logo=blender
 [design-cinema4d]: https://img.shields.io/badge/-Cinema4D-000?style=flat-square&logoColor=white&logo=cinema4d
 [design-figma]: https://img.shields.io/badge/-Figma-000?style=flat-square&logoColor=white&logo=figma
+[design-framer]: https://img.shields.io/badge/-Framer-000?style=flat-square&logoColor=white&logo=framer
 [design-live2d]: https://img.shields.io/badge/-Live2D-000?style=flat-square
 [design-sai]: https://img.shields.io/badge/-SAI-000?style=flat-square
-[design-spline]: https://img.shields.io/badge/-Spline-000?style=flat-square
+[design-spline]: https://img.shields.io/badge/-Spline-000?style=flat-square&logo=planetscale
 [design-rive]: https://img.shields.io/badge/-Rive-000?style=flat-square
 [design-sketch]: https://img.shields.io/badge/-Sketch-000?style=flat-square&logoColor=white&logo=sketch
 [design-stable-diffusion]: https://img.shields.io/badge/-🤗_Stable_Diffusion-000?style=flat-square&logoColor=white
@@ -132,6 +133,7 @@ Hit me up anytime and come vibe with our lit project. Let's make some magic happ
 [ops-github-action]: https://img.shields.io/badge/-GitHub_Actions-000?style=flat-square&logoColor=white&logo=github
 [ops-gitmoji]: https://img.shields.io/badge/-😉_Gitmoji_Commit_Workflow-000?style=flat-square
 [ops-lobe-commit]: https://img.shields.io/badge/-🤯_Lobe_Commit-000?style=flat-square
+[ops-lobe-i18n]: https://img.shields.io/badge/-🤯_Lobe_I18n-000?style=flat-square
 [ops-prettier]: https://img.shields.io/badge/-Prettier-000?style=flat-square&logoColor=white&logo=prettier
 [ops-remark]: https://img.shields.io/badge/-Remark-000?style=flat-square&logoColor=white&logo=remark
 [ops-semantic-release]: https://img.shields.io/badge/-Semantic_Release-000?style=flat-square&logoColor=white&logo=semanticrelease
