@@ -14,7 +14,7 @@ As a **Design Engineer** chillin'in Chengdu, China<br/>Hyped about open source p
 ![][social-discord-shield]
 [![][social-steam-shield]][social-steam-link]
 [![][social-x-shield]][social-x-link]<br/>
-[![sponser](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-f04f88?logo=kofi\&logoColor=white\&style=flat-square)](https://ko-fi.com/canisminor1990 "Sponsor me on Ko-Fi")<br/>
+[![sponser](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-f04f88?logo=kofi&logoColor=white&style=flat-square)](https://ko-fi.com/canisminor1990 "Sponsor me on Ko-Fi")<br/>
 
 [![][github-treding-shield]][github-trending-url]
 
@@ -65,7 +65,7 @@ Last Updated on 29/01/2024 00:19:15 UTC
 
 Hit me up anytime and come vibe with our lit project. Let's make some magic happen 😗😼❤️
 
-> *Generate by [🧙‍♂️ Readme Wizard](https://github.com/lobehub/lobe-readme-wizard "Generate lobe style product README by MAGIC")*
+> _Generate by [🧙‍♂️ Readme Wizard](https://github.com/lobehub/lobe-readme-wizard "Generate lobe style product README by MAGIC")_
 
 <!-- SHIELD GROUP -->
 
