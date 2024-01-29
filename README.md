@@ -14,18 +14,13 @@ As a **Design Engineer** chillin'in Chengdu, China<br/>Hyped about open source p
 ![][social-discord-shield]
 [![][social-steam-shield]][social-steam-link]
 [![][social-x-shield]][social-x-link]<br/>
-[![sponser](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-f04f88?logo=kofi&logoColor=white&style=flat-square)](https://ko-fi.com/canisminor1990 "Sponsor me on Ko-Fi")
+[![sponser](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-f04f88?logo=kofi\&logoColor=white\&style=flat-square)](https://ko-fi.com/canisminor1990 "Sponsor me on Ko-Fi")<br/>
 
-<a href="https://ossinsight.io/analyze/canisminor1990" target="_blank">
-  <img height="148" src="https://github-readme-stats.vercel.app/api?username=canisminor1990&show_icons=true&theme=radical&title_color=fff&text_color=fff&icon_color=90774f&bg_color=000&border_color=999"/>
-  <img height="148" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canisminor1990&layout=compact&title_color=fff&text_color=fff&icon_color=90774f&bg_color=000&border_color=999"/>
-</a>
-
-</div>
-
-<br/>
+[![][github-treding-shield]][github-trending-url]
 
 ![][split]
+
+</div>
 
 ### 💫 Tech Stack and Tools
 
@@ -70,7 +65,7 @@ Last Updated on 29/01/2024 00:19:15 UTC
 
 Hit me up anytime and come vibe with our lit project. Let's make some magic happen 😗😼❤️
 
-> _Generate by [🧙‍♂️ Readme Wizard](https://github.com/lobehub/lobe-readme-wizard "Generate lobe style product README by MAGIC")_
+> *Generate by [🧙‍♂️ Readme Wizard](https://github.com/lobehub/lobe-readme-wizard "Generate lobe style product README by MAGIC")*
 
 <!-- SHIELD GROUP -->
 
@@ -89,10 +84,10 @@ Hit me up anytime and come vibe with our lit project. Let's make some magic happ
 [design-figma]: https://img.shields.io/badge/-Figma-000?style=flat-square&logoColor=white&logo=figma
 [design-framer]: https://img.shields.io/badge/-Framer-000?style=flat-square&logoColor=white&logo=framer
 [design-live2d]: https://img.shields.io/badge/-Live2D-000?style=flat-square
-[design-sai]: https://img.shields.io/badge/-SAI-000?style=flat-square
-[design-spline]: https://img.shields.io/badge/-Spline-000?style=flat-square&logo=planetscale
 [design-rive]: https://img.shields.io/badge/-Rive-000?style=flat-square
+[design-sai]: https://img.shields.io/badge/-SAI-000?style=flat-square
 [design-sketch]: https://img.shields.io/badge/-Sketch-000?style=flat-square&logoColor=white&logo=sketch
+[design-spline]: https://img.shields.io/badge/-Spline-000?style=flat-square&logo=planetscale
 [design-stable-diffusion]: https://img.shields.io/badge/-🤗_Stable_Diffusion-000?style=flat-square&logoColor=white
 [frontend-antd]: https://img.shields.io/badge/-Ant_Design-000?style=flat-square&logoColor=white&logo=ant-design
 [frontend-dumi]: https://img.shields.io/badge/-🧩_DUMI-000?style=flat-square
@@ -105,6 +100,8 @@ Hit me up anytime and come vibe with our lit project. Let's make some magic happ
 [frontend-three]: https://img.shields.io/badge/-Three.js-000?style=flat-square&logoColor=white&logo=threedotjs
 [frontend-umi]: https://img.shields.io/badge/-UMI-000?style=flat-square&logo=umami
 [frontend-zustand]: https://img.shields.io/badge/-🐻_Zustand-000?style=flat-square
+[github-treding-shield]: https://trendshift.io/api/badge/developers/530
+[github-trending-url]: https://trendshift.io/developers/530
 [h-backend]: https://img.shields.io/badge/-BACKEND-000?style=flat-square
 [h-design]: https://img.shields.io/badge/-DESIGN-000?style=flat-square
 [h-devops]: https://img.shields.io/badge/-DEVOPS-000?style=flat-square
@@ -153,14 +150,14 @@ Hit me up anytime and come vibe with our lit project. Let's make some magic happ
 [shell-iterm]: https://img.shields.io/badge/-iTerm-000?style=flat-square&logoColor=white&logo=iterm2
 [shell-oh-my-posh]: https://img.shields.io/badge/-Oh_My_Posh-000?style=flat-square&logoColor=white
 [shell-terminal]: https://img.shields.io/badge/-Windows_Terminal-000?style=flat-square&logoColor=white&logo=windowsterminal
-[social-design-engineer]: https://img.shields.io/badge/%F0%9F%8E%A8%26%E2%9A%92%EF%B8%8F-Design%20Engineer-white?labelColor=black&style=flat-square
-[social-follow]: https://img.shields.io/github/followers/canisminor1990?style=flat-square&logo=github&labelColor=black&color=ffcb47
 [social-bilibili]: https://bilistats.lonelyion.com/followers?uid=410372&logo_color=white&label_color=black&color=ff80eb&label=followers
-[social-qq-shield]: https://img.shields.io/badge/-40073838-black?labelColor=black&logo=tencentqq&logoColor=white&style=flat-square
-[social-wechat-shield]: https://img.shields.io/badge/-canisminor-black?labelColor=black&logo=wechat&logoColor=white&style=flat-square
+[social-design-engineer]: https://img.shields.io/badge/%F0%9F%8E%A8%26%E2%9A%92%EF%B8%8F-Design%20Engineer-white?labelColor=black&style=flat-square
 [social-discord-shield]: https://img.shields.io/badge/-canisminor1990-black?labelColor=black&logo=discord&logoColor=white&style=flat-square
-[social-steam-shield]: https://img.shields.io/badge/-canisminor-black?labelColor=black&logo=steam&logoColor=white&style=flat-square
+[social-follow]: https://img.shields.io/github/followers/canisminor1990?style=flat-square&logo=github&labelColor=black&color=ffcb47
+[social-qq-shield]: https://img.shields.io/badge/-40073838-black?labelColor=black&logo=tencentqq&logoColor=white&style=flat-square
 [social-steam-link]: https://steamcommunity.com/id/canisminor
-[social-x-shield]: https://img.shields.io/badge/-canisminor1990-black?labelColor=black&logo=x&logoColor=white&style=flat-square
+[social-steam-shield]: https://img.shields.io/badge/-canisminor-black?labelColor=black&logo=steam&logoColor=white&style=flat-square
+[social-wechat-shield]: https://img.shields.io/badge/-canisminor-black?labelColor=black&logo=wechat&logoColor=white&style=flat-square
 [social-x-link]: https://x.com/canisminor1990
+[social-x-shield]: https://img.shields.io/badge/-canisminor1990-black?labelColor=black&logo=x&logoColor=white&style=flat-square
 [split]: https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png
