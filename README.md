@@ -36,9 +36,9 @@ As a **Design Engineer** chillin'in Chengdu, China<br/>Hyped about open source p
 
 ### ⭐️ Projects
 
-| [**🤖 Lobe Chat**][lobe-chat-github]<br/>An open-source, extensible (Function Calling), high-performance chatbot framework. It supports one-click free deployment of your private ChatGPT/LLM web application.<br/><br/>![][lobe-chat-shield] | [![][lobe-chat-cover]][lobe-chat-github]   |
+| [**🤯 Lobe Chat**][lobe-chat-github]<br/>An open-source, extensible (Function Calling), high-performance chatbot framework. It supports one-click free deployment of your private ChatGPT/LLM web application.<br/><br/>![][lobe-chat-shield] | [![][lobe-chat-cover]][lobe-chat-github]   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------- |
-| [**🤯 Lobe Theme**][lobe-theme-github]<br/>The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.<br/><br/>![][lobe-theme-shield]                                 | [![][lobe-theme-cover]][lobe-theme-github] |
+| [**🅰️ Lobe Theme**][lobe-theme-github]<br/>The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.<br/><br/>![][lobe-theme-shield]                                 | [![][lobe-theme-cover]][lobe-theme-github] |
 
 > \[!NOTE]
 > Find more interesting projects in [🤯 LobeHub](https://github.com/lobehub)
