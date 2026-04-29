@@ -31,7 +31,7 @@
     "@commitlint/cli": "^18.0.0",
     "@lobehub/lint": "latest",
     "husky": "^8",
-    "lint-staged": "^15",
+    "lint-staged": "^16.0.0",
     "prettier": "^3",
     "remark": "^15",
     "remark-cli": "^12"
