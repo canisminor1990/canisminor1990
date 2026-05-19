@@ -49,8 +49,18 @@ As a **Indie Hacker** chillin'in Chengdu, China<br/>Hyped about open source proj
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
 
- Last Updated on 18/05/2026 02:33:00 UTC
+```text
+🌞 Morning                89351 commits       ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.22 % 
+🌆 Daytime                190830 commits      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   38.91 % 
+🌃 Evening                150015 commits      ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   30.59 % 
+🌙 Night                  60273 commits       ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.29 % 
+```
+
+
+
+ Last Updated on 19/05/2026 02:58:51 UTC
 <!--END_SECTION:waka-->
 
 Hit me up anytime and come vibe with our lit project. Let's make some magic happen 😗😼❤️
