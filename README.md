@@ -26,6 +26,7 @@ As a **Design Engineer** chillin' in Chengdu, China<br/>Building [LobeHub][lobeh
 
 | ![][h-design]   | ![][design-figma] ![][design-framer] ![][design-spline] ![][design-rive] ![][design-blender] ![][design-cinema4d] ![][design-adobe]                                                                                          |
 | :-------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![][h-ai]       | ![][ai-openai] ![][ai-anthropic] ![][ai-gemini] ![][ai-mcp] ![][ai-huggingface] ![][ai-vercel-ai-sdk] ![][ai-langchain] ![][ai-stable-diffusion]                                                                            |
 | ![][h-frontend] | ![][frontend-typescript] ![][frontend-react] ![][frontend-nextjs] ![][frontend-zustand] ![][frontend-antd] ![][frontend-lobeui] ![][frontend-electron]                                                                      |
 | ![][h-backend]  | ![][backend-node] ![][backend-postgresql] ![][backend-nginx]                                                                                                                                                                |
 | ![][h-devops]   | ![][ops-bun] ![][ops-pnpm] ![][ops-docker] ![][ops-github-action] ![][ops-semantic-release] ![][ops-lobe-commit] ![][ops-lobe-i18n] ![][ops-vercel] ![][ops-eslint] ![][ops-prettier] ![][ops-stylelint] ![][ops-commitlint] |
@@ -106,6 +107,14 @@ Hit me up anytime and come vibe with our lit project. Let's make some magic happ
 [design-framer]: https://img.shields.io/badge/-Framer-000?style=flat-square&logoColor=white&logo=framer
 [design-rive]: https://img.shields.io/badge/-Rive-000?style=flat-square
 [design-spline]: https://img.shields.io/badge/-Spline-000?style=flat-square&logo=planetscale
+[ai-anthropic]: https://img.shields.io/badge/-Claude-000?style=flat-square&logoColor=white&logo=anthropic
+[ai-gemini]: https://img.shields.io/badge/-Gemini-000?style=flat-square&logoColor=white&logo=googlegemini
+[ai-huggingface]: https://img.shields.io/badge/-Hugging_Face-000?style=flat-square&logoColor=white&logo=huggingface
+[ai-langchain]: https://img.shields.io/badge/-🦜_LangChain-000?style=flat-square
+[ai-mcp]: https://img.shields.io/badge/-MCP-000?style=flat-square&logoColor=white
+[ai-openai]: https://img.shields.io/badge/-OpenAI-000?style=flat-square&logoColor=white&logo=openai
+[ai-stable-diffusion]: https://img.shields.io/badge/-🤗_Stable_Diffusion-000?style=flat-square&logoColor=white
+[ai-vercel-ai-sdk]: https://img.shields.io/badge/-Vercel_AI_SDK-000?style=flat-square&logoColor=white
 [docs-kit-downloads]: https://img.shields.io/npm/dt/@lobehub/docs-kit?color=8ae8ff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [docs-kit-docs]: https://docs-kit.lobehub.com/
 [docs-kit-github]: https://github.com/lobehub/docs-kit
@@ -126,6 +135,7 @@ Hit me up anytime and come vibe with our lit project. Let's make some magic happ
 [github-treding-shield]: https://trendshift.io/api/badge/developers/530
 [github-trending-url]: https://trendshift.io/developers/530
 [h-backend]: https://img.shields.io/badge/-BACKEND-000?style=flat-square
+[h-ai]: https://img.shields.io/badge/-AI-000?style=flat-square
 [h-design]: https://img.shields.io/badge/-DESIGN-000?style=flat-square
 [h-devops]: https://img.shields.io/badge/-DEVOPS-000?style=flat-square
 [h-frontend]: https://img.shields.io/badge/-FRONTEND-000?style=flat-square
