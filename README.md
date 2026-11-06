@@ -22,19 +22,6 @@ As a **Design Engineer** chillin' in Chengdu, China<br/>Building [LobeHub][lobeh
 
 </div>
 
-### 💫 Tech Stack and Tools
-
-| ![][h-design]   | ![][design-figma] ![][design-framer] ![][design-spline] ![][design-rive] ![][design-blender] ![][design-cinema4d] ![][design-adobe]                                                                                          |
-| :-------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![][h-ai]       | ![][ai-openai] ![][ai-anthropic] ![][ai-gemini] ![][ai-mcp] ![][ai-huggingface] ![][ai-vercel-ai-sdk] ![][ai-langchain] ![][ai-stable-diffusion]                                                                            |
-| ![][h-frontend] | ![][frontend-typescript] ![][frontend-react] ![][frontend-nextjs] ![][frontend-zustand] ![][frontend-antd] ![][frontend-lobeui] ![][frontend-electron]                                                                      |
-| ![][h-backend]  | ![][backend-node] ![][backend-postgresql] ![][backend-nginx]                                                                                                                                                                |
-| ![][h-devops]   | ![][ops-bun] ![][ops-pnpm] ![][ops-docker] ![][ops-github-action] ![][ops-semantic-release] ![][ops-lobe-commit] ![][ops-lobe-i18n] ![][ops-vercel] ![][ops-eslint] ![][ops-prettier] ![][ops-stylelint] ![][ops-commitlint] |
-| ![][h-ide]      | ![][ide-cursor] ![][ide-vscode] ![][ide-webstorm] ![][ide-datagrip]                                                                                                                                                         |
-| ![][h-os]       | ![][os-mac] ![][os-win] ![][os-ubuntu] ![][os-debian] ![][os-openwrt]                                                                                                                                                       |
-| ![][h-shell]    | ![][shell-iterm] ![][shell-terminal] ![][shell-fish] ![][shell-oh-my-posh]                                                                                                                                                  |
-| ![][h-other]    | ![][other-notion] ![][other-linear] ![][other-discord] ![][other-github]                                                                                                                                                    |
-
 ### ⭐️ Projects
 
 | [**🤯 LobeHub**][lobehub-github]<br/>Super-agents on your team. Add them to the chats you already use — they take on work by themselves and get better every week.<br/><br/>![][lobehub-shield] | [![][lobehub-cover]][lobehub-github] |
@@ -97,24 +84,6 @@ Hit me up anytime and come vibe with our lit project. Let's make some magic happ
 
 <!-- SHIELD GROUP -->
 
-[backend-nginx]: https://img.shields.io/badge/-Nginx-000?style=flat-square&logoColor=white&logo=nginx
-[backend-node]: https://img.shields.io/badge/-Node.js-000?style=flat-square&logoColor=white&logo=node.js
-[backend-postgresql]: https://img.shields.io/badge/-PostgreSQL-000?style=flat-square&logoColor=white&logo=postgresql
-[design-adobe]: https://img.shields.io/badge/-Adobe-000?style=flat-square&logoColor=white&logo=adobe
-[design-blender]: https://img.shields.io/badge/-Blender-000?style=flat-square&logoColor=white&logo=blender
-[design-cinema4d]: https://img.shields.io/badge/-Cinema4D-000?style=flat-square&logoColor=white&logo=cinema4d
-[design-figma]: https://img.shields.io/badge/-Figma-000?style=flat-square&logoColor=white&logo=figma
-[design-framer]: https://img.shields.io/badge/-Framer-000?style=flat-square&logoColor=white&logo=framer
-[design-rive]: https://img.shields.io/badge/-Rive-000?style=flat-square
-[design-spline]: https://img.shields.io/badge/-Spline-000?style=flat-square&logo=planetscale
-[ai-anthropic]: https://img.shields.io/badge/-Claude-000?style=flat-square&logoColor=white&logo=anthropic
-[ai-gemini]: https://img.shields.io/badge/-Gemini-000?style=flat-square&logoColor=white&logo=googlegemini
-[ai-huggingface]: https://img.shields.io/badge/-Hugging_Face-000?style=flat-square&logoColor=white&logo=huggingface
-[ai-langchain]: https://img.shields.io/badge/-🦜_LangChain-000?style=flat-square
-[ai-mcp]: https://img.shields.io/badge/-MCP-000?style=flat-square&logoColor=white
-[ai-openai]: https://img.shields.io/badge/-OpenAI-000?style=flat-square&logoColor=white&logo=openai
-[ai-stable-diffusion]: https://img.shields.io/badge/-🤗_Stable_Diffusion-000?style=flat-square&logoColor=white
-[ai-vercel-ai-sdk]: https://img.shields.io/badge/-Vercel_AI_SDK-000?style=flat-square&logoColor=white
 [docs-kit-downloads]: https://img.shields.io/npm/dt/@lobehub/docs-kit?color=8ae8ff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [docs-kit-docs]: https://docs-kit.lobehub.com/
 [docs-kit-github]: https://github.com/lobehub/docs-kit
@@ -125,28 +94,8 @@ Hit me up anytime and come vibe with our lit project. Let's make some magic happ
 [fluent-emoji-github]: https://github.com/lobehub/fluent-emoji
 [fluent-emoji-link]: https://www.npmjs.com/package/@lobehub/fluent-emoji
 [fluent-emoji-shield]: https://img.shields.io/npm/v/@lobehub/fluent-emoji?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
-[frontend-antd]: https://img.shields.io/badge/-Ant_Design-000?style=flat-square&logoColor=white&logo=ant-design
-[frontend-electron]: https://img.shields.io/badge/-Electron-000?style=flat-square&logoColor=white&logo=electron
-[frontend-lobeui]: https://img.shields.io/badge/-Lobe_UI-000?style=flat-square&logoColor=white
-[frontend-nextjs]: https://img.shields.io/badge/-Next.js-black?logo=nextdotjs&style=flat-square
-[frontend-react]: https://img.shields.io/badge/-React-000?style=flat-square&logoColor=white&logo=react
-[frontend-typescript]: https://img.shields.io/badge/-TypeScript-000?style=flat-square&logoColor=white&logo=typescript
-[frontend-zustand]: https://img.shields.io/badge/-🐻_Zustand-000?style=flat-square
 [github-treding-shield]: https://trendshift.io/api/badge/developers/530
 [github-trending-url]: https://trendshift.io/developers/530
-[h-backend]: https://img.shields.io/badge/-BACKEND-000?style=flat-square
-[h-ai]: https://img.shields.io/badge/-AI-000?style=flat-square
-[h-design]: https://img.shields.io/badge/-DESIGN-000?style=flat-square
-[h-devops]: https://img.shields.io/badge/-DEVOPS-000?style=flat-square
-[h-frontend]: https://img.shields.io/badge/-FRONTEND-000?style=flat-square
-[h-ide]: https://img.shields.io/badge/-IDE-000?style=flat-square
-[h-os]: https://img.shields.io/badge/-OS-000?style=flat-square
-[h-other]: https://img.shields.io/badge/-OTHER-000?style=flat-square
-[h-shell]: https://img.shields.io/badge/-SHELL-000?style=flat-square
-[ide-cursor]: https://img.shields.io/badge/-Cursor-000?style=flat-square&logoColor=white&logo=cursor
-[ide-datagrip]: https://img.shields.io/badge/-DataGrip-000?style=flat-square&logoColor=white&logo=datagrip
-[ide-vscode]: https://img.shields.io/badge/-VS_Code-000?style=flat-square&logoColor=white&logo=visualstudiocode
-[ide-webstorm]: https://img.shields.io/badge/-Webstorm-000?style=flat-square&logoColor=white&logo=webstorm
 [lobe-charts-downloads]: https://img.shields.io/npm/dt/@lobehub/charts?color=8ae8ff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [lobe-charts-docs]: https://charts.lobehub.com
 [lobe-charts-github]: https://github.com/lobehub/lobe-charts
@@ -180,31 +129,6 @@ Hit me up anytime and come vibe with our lit project. Let's make some magic happ
 [lobehub-cover]: https://hub-apac-1.lobeobjects.space/blog/assets/8beb20539c0fdd1b8fbbc6a07f293a78.webp
 [lobehub-github]: https://github.com/lobehub/lobehub
 [lobehub-shield]: https://img.shields.io/github/stars/lobehub/lobehub?color=ffcb47&labelColor=black&style=flat-square&logo=github
-[ops-bun]: https://img.shields.io/badge/-Bun-000?style=flat-square&logoColor=white&logo=bun
-[ops-commitlint]: https://img.shields.io/badge/-Commitlint-000?style=flat-square&logoColor=white&logo=commitlint
-[ops-docker]: https://img.shields.io/badge/-Docker-000?style=flat-square&logoColor=white&logo=docker
-[ops-eslint]: https://img.shields.io/badge/-ESLint-000?style=flat-square&logoColor=white&logo=eslint
-[ops-github-action]: https://img.shields.io/badge/-GitHub_Actions-000?style=flat-square&logoColor=white&logo=github
-[ops-lobe-commit]: https://img.shields.io/badge/-🤯_Lobe_Commit-000?style=flat-square
-[ops-lobe-i18n]: https://img.shields.io/badge/-🤯_Lobe_I18n-000?style=flat-square
-[ops-pnpm]: https://img.shields.io/badge/-pnpm-000?style=flat-square&logoColor=white&logo=pnpm
-[ops-prettier]: https://img.shields.io/badge/-Prettier-000?style=flat-square&logoColor=white&logo=prettier
-[ops-semantic-release]: https://img.shields.io/badge/-Semantic_Release-000?style=flat-square&logoColor=white&logo=semanticrelease
-[ops-stylelint]: https://img.shields.io/badge/-Stylelint-000?style=flat-square&logoColor=white&logo=stylelint
-[ops-vercel]: https://img.shields.io/badge/-Vercel-000?style=flat-square&logoColor=white&logo=vercel
-[os-debian]: https://img.shields.io/badge/-Debian-000?style=flat-square&logoColor=white&logo=debian
-[os-mac]: https://img.shields.io/badge/-MacOS-000?style=flat-square&logoColor=white&logo=apple
-[os-openwrt]: https://img.shields.io/badge/-OpenWRT-000?style=flat-square&logoColor=white&logo=openwrt
-[os-ubuntu]: https://img.shields.io/badge/-Ubuntu-000?style=flat-square&logoColor=white&logo=ubuntu
-[os-win]: https://img.shields.io/badge/-Win11-000?style=flat-square&logoColor=white&logo=windows11
-[other-discord]: https://img.shields.io/badge/-Discord-000?style=flat-square&logoColor=white&logo=discord
-[other-github]: https://img.shields.io/badge/-GitHub-000?style=flat-square&logoColor=white&logo=github
-[other-linear]: https://img.shields.io/badge/-Linear-000?style=flat-square&logoColor=white&logo=linear
-[other-notion]: https://img.shields.io/badge/-Notion-000?style=flat-square&logoColor=white&logo=notion
-[shell-fish]: https://img.shields.io/badge/-🐟_Fish_Shell-000?style=flat-square&logoColor=white
-[shell-iterm]: https://img.shields.io/badge/-iTerm-000?style=flat-square&logoColor=white&logo=iterm2
-[shell-oh-my-posh]: https://img.shields.io/badge/-Oh_My_Posh-000?style=flat-square&logoColor=white
-[shell-terminal]: https://img.shields.io/badge/-Windows_Terminal-000?style=flat-square&logoColor=white&logo=windowsterminal
 [social-bilibili]: https://bilistats.lonelyion.com/followers?uid=410372&logo_color=white&label_color=black&color=ff80eb&label=followers
 [social-design-engineer]: https://img.shields.io/badge/%F0%9F%8E%A8%26%E2%9A%92%EF%B8%8F-Design%20Engineer-white?labelColor=black&style=flat-square
 [social-discord-shield]: https://img.shields.io/badge/-canisminor1990-black?labelColor=black&logo=discord&logoColor=white&style=flat-square
